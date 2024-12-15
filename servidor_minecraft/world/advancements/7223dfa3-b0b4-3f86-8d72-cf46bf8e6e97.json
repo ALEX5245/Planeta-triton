@@ -78,7 +78,9 @@
       "minecraft:sunflower_plains": "2024-12-14 06:33:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 06:14:30 +0000",
       "minecraft:river": "2024-12-14 05:59:53 +0000",
+      "minecraft:cold_ocean": "2024-12-15 03:17:17 +0000",
       "minecraft:forest": "2024-12-14 06:02:06 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-15 03:14:25 +0000",
       "minecraft:ocean": "2024-12-14 06:16:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 06:09:06 +0000",
       "minecraft:plains": "2024-12-14 05:59:28 +0000"
@@ -749,8 +751,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-15 03:20:59 +0000",
       "minecraft:elder_guardian": "2024-12-14 08:06:39 +0000",
       "minecraft:guardian": "2024-12-14 08:02:19 +0000",
+      "minecraft:creeper": "2024-12-15 03:21:27 +0000",
       "minecraft:zombie": "2024-12-14 06:35:50 +0000",
       "minecraft:drowned": "2024-12-14 06:17:18 +0000"
     },
@@ -2268,33 +2272,21 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_ocean": "2024-12-14 08:42:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-14 08:42:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-14 08:43:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-14 08:52:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2024-12-14 08:42:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-14 08:52:16 +0000"
     },
     "done": true
   },
@@ -2310,9 +2302,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-14 08:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-14 08:42:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-14 08:43:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-14 08:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 08:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2024-12-14 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 08:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-14 08:48:14 +0000"
     },
     "done": true
   },
@@ -2328,51 +2362,69 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 08:48:14 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_ocean": "2024-12-14 08:42:13 +0000"
-    },
-    "done": false
-  },
-  "endrem:main/old_eye": {
-    "criteria": {
-      "old_eye": "2024-12-14 08:43:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2024-12-14 08:42:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-12-14 08:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2024-12-14 08:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-14 08:52:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
-      "has_iron_nugget": "2024-12-14 08:48:14 +0000"
+      "has_silver_ingot": "2024-12-14 08:52:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-14 08:52:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-15 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-15 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-15 03:15:32 +0000"
     },
     "done": true
   },
