@@ -76,6 +76,7 @@
       "minecraft:mushroom_fields": "2024-12-14 08:14:56 +0000",
       "minecraft:deep_ocean": "2024-12-14 06:09:16 +0000",
       "minecraft:sunflower_plains": "2024-12-14 06:33:17 +0000",
+      "minecraft:beach": "2024-12-15 04:25:51 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 06:14:30 +0000",
       "minecraft:river": "2024-12-14 05:59:53 +0000",
       "minecraft:cold_ocean": "2024-12-15 03:17:17 +0000",
@@ -2423,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-15 04:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-15 04:16:21 +0000"
@@ -2434,6 +2441,12 @@
       "has_item": "2024-12-15 03:33:57 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2024-12-15 04:19:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
@@ -2450,6 +2463,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-15 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-15 04:17:48 +0000"
     },
     "done": true
   },
@@ -2597,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 04:20:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-15 03:33:57 +0000"
@@ -2675,6 +2700,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-15 04:20:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-15 04:16:21 +0000"
@@ -2684,6 +2715,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 04:20:42 +0000"
     },
     "done": true
   },
@@ -2744,6 +2781,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-15 04:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-15 04:17:48 +0000"
     },
     "done": true
   },
@@ -2816,6 +2859,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 04:20:42 +0000"
     },
     "done": true
   },

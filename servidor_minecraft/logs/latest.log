@@ -668,3 +668,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [15Dec2024 04:14:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> AHorita te cuento
 [15Dec2024 04:15:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Fui por madera
 [15Dec2024 04:15:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Ok
+[15Dec2024 04:19:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Encontre una aldea
+[15Dec2024 04:20:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Yo encontre Scoria xd
+[15Dec2024 04:20:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Que cosa? xd
+[15Dec2024 04:22:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Listo xd
+[15Dec2024 04:24:40.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74148, l='ServerLevel[world]', x=19.50, y=16.00, z=-206.50]
+[15Dec2024 04:25:52.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=-44, z=-228} BlockPos{x=-134, y=-46, z=-231}
+[15Dec2024 04:26:01.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-231} BlockPos{x=-137, y=-45, z=-232}
+[15Dec2024 04:26:01.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-231} BlockPos{x=-137, y=-45, z=-232}
+[15Dec2024 04:26:01.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-230} BlockPos{x=-137, y=-45, z=-232}
+[15Dec2024 04:27:20.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Timed out
+[15Dec2024 04:27:20.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
