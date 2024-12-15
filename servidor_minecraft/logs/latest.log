@@ -588,3 +588,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [15Dec2024 03:28:22.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=8, z=-225} BlockPos{x=-119, y=7, z=-227}
 [15Dec2024 03:36:36.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
 [15Dec2024 03:36:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[15Dec2024 03:37:24.231] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Dec2024 03:37:24.345] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Dec2024 03:37:24.434] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Dec2024 03:37:24.435] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Dec2024 03:37:24.436] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Dec2024 03:37:24.514] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Dec2024 03:37:24.639] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Dec2024 03:37:24.640] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Dec2024 03:37:24.719] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Dec2024 03:37:24.719] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Dec2024 03:37:24.858] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Dec2024 03:37:24.858] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Dec2024 03:37:25.033] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Dec2024 03:37:25.038] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Dec2024 03:37:25.038] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Dec2024 03:37:25.079] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Dec2024 03:37:30.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:47319] logged in with entity id 33449 at (-90.77419456152994, 9.080828111706454, -244.4935764460046)
+[15Dec2024 03:37:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[15Dec2024 03:37:30.333] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[15Dec2024 03:37:34.531] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33517, l='ServerLevel[world]', x=23.50, y=17.00, z=-210.50]
+[15Dec2024 03:37:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> zoy un pes :v
+[15Dec2024 03:37:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Glup Glup
+[15Dec2024 03:38:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> mamhuevo digo glugluglgu :v
+[15Dec2024 03:41:22.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=3, z=-254} BlockPos{x=-111, y=4, z=-254}
+[15Dec2024 03:41:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Tenemos a un bruto sobre nosotros
+[15Dec2024 03:41:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> :0
+[15Dec2024 03:41:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> tDonde?
+[15Dec2024 03:42:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported IsaacR to A07K]
+[15Dec2024 03:43:49.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=5, z=-246} BlockPos{x=-116, y=6, z=-246}
+[15Dec2024 03:44:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Quedo bien xd
+[15Dec2024 03:44:07.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> cy
+[15Dec2024 03:46:05.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> una ballena en casa xd
+[15Dec2024 03:46:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Lol xd
+[15Dec2024 03:46:13.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Se va a llamar gerardo
+[15Dec2024 03:46:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Gerardo el ballenon xd
+[15Dec2024 03:46:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Que nombre mas epico
