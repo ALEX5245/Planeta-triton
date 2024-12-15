@@ -635,3 +635,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [15Dec2024 03:55:38.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> ._. ?
 [15Dec2024 03:55:41.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Khe
 [15Dec2024 03:55:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Khe
+[15Dec2024 04:02:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Otra loca que te sigue xd
+[15Dec2024 04:02:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> XD
+[15Dec2024 04:02:25.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=3, z=-255} BlockPos{x=-96, y=4, z=-255}
+[15Dec2024 04:02:35.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=4, z=-257} BlockPos{x=-99, y=5, z=-257}
+[15Dec2024 04:02:53.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Desde la superficio se ve como lo iluminaste
+[15Dec2024 04:03:10.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Te pegue? xd
+[15Dec2024 04:03:13.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Si
+[15Dec2024 04:03:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> XD
+[15Dec2024 04:03:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Perdon xd
+[15Dec2024 04:04:18.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=4, z=-257} BlockPos{x=-106, y=5, z=-257}
+[15Dec2024 04:04:39.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=4, z=-259} BlockPos{x=-98, y=5, z=-259}
+[15Dec2024 04:05:03.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[15Dec2024 04:05:10.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=8, z=-257} BlockPos{x=-125, y=7, z=-257}
+[15Dec2024 04:05:34.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=5, z=-261} BlockPos{x=-97, y=4, z=-261}
+[15Dec2024 04:05:41.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=6, z=-261} BlockPos{x=-121, y=4, z=-261}
+[15Dec2024 04:05:41.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=9, z=-260} BlockPos{x=-122, y=8, z=-260}
+[15Dec2024 04:06:49.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 8.103145311295819,-0.3383133500780584,5.862588052945
