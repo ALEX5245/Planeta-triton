@@ -761,6 +761,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-22 05:33:40 +0000",
       "cooked_mutton": "2024-12-21 08:10:41 +0000",
       "sweet_berries": "2024-12-21 04:21:20 +0000",
       "cooked_cod": "2024-12-14 07:57:41 +0000",
@@ -887,6 +888,8 @@
       "minecraft:elder_guardian": "2024-12-14 08:09:26 +0000",
       "minecraft:guardian": "2024-12-14 08:11:18 +0000",
       "minecraft:vindicator": "2024-12-22 05:08:33 +0000",
+      "minecraft:spider": "2024-12-22 05:29:55 +0000",
+      "minecraft:creeper": "2024-12-22 05:26:48 +0000",
       "minecraft:zombie": "2024-12-21 04:59:31 +0000",
       "minecraft:drowned": "2024-12-14 06:27:30 +0000"
     },
@@ -3994,9 +3997,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-22 05:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2024-12-22 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-22 05:17:53 +0000"
     },
     "done": true
   },
@@ -4012,6 +4027,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 05:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-22 04:51:14 +0000"
@@ -4021,6 +4042,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-22 05:17:34 +0000"
     },
     "done": true
   },
@@ -4066,6 +4093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-22 05:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2024-12-22 04:27:20 +0000"
@@ -4093,6 +4126,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-12-22 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 05:26:51 +0000"
     },
     "done": true
   },
@@ -4126,6 +4165,18 @@
     },
     "done": true
   },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-12-22 05:09:38 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 05:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:35:27 +0000"
@@ -4138,9 +4189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-22 05:17:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-22 05:17:34 +0000"
     },
     "done": true
   },
@@ -4153,6 +4216,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2024-12-22 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-22 05:17:09 +0000"
     },
     "done": true
   },
@@ -4210,6 +4279,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 05:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-22 04:51:14 +0000"
@@ -4225,6 +4300,24 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-22 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-22 05:17:41 +0000"
     },
     "done": true
   },

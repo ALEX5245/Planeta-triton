@@ -8619,3 +8619,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [22Dec2024 05:10:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [22Dec2024 05:12:03.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [22Dec2024 05:13:00.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yuri'/24591, l='ServerLevel[world]', x=827.70, y=62.51, z=-206.30] died, message: 'Yuri was slain by IsaacR'
+[22Dec2024 05:13:54.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:13:54.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:15:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Spectator Mode]
+[22Dec2024 05:15:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Hunted]
+[22Dec2024 05:16:08.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=854, y=69, z=-269} BlockPos{x=852, y=68, z=-270}
+[22Dec2024 05:16:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[22Dec2024 05:17:23.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[22Dec2024 05:17:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has reached the goal [Hired Help]
+[22Dec2024 05:18:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[22Dec2024 05:18:30.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:18:54.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:18:54.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:21:04.870] [pool-3-thread-1/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.ender_remastered.json into net.minecraft.world.level.levelgen.NoiseChunk
+[22Dec2024 05:22:04.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Skeleton]
+[22Dec2024 05:22:20.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Skeleton]
+[22Dec2024 05:23:54.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:23:54.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:25:38.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[22Dec2024 05:26:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Take Aim]
+[22Dec2024 05:27:15.960] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[22Dec2024 05:28:54.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:28:54.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:29:49.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[22Dec2024 05:30:20.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 05:30:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:31:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 05:31:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:32:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 05:32:19.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:32:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set A07K's game mode to Survival Mode]
+[22Dec2024 05:33:54.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:33:54.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
