@@ -863,3 +863,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [22Dec2024 05:32:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [22Dec2024 05:32:19.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [22Dec2024 05:32:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set A07K's game mode to Survival Mode]
+[22Dec2024 05:35:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[22Dec2024 05:36:21.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marin'/39413, l='ServerLevel[world]', x=720.30, y=64.00, z=-199.45] died, message: 'Marin was slain by IsaacR'
+[22Dec2024 05:36:21.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marin'/39413, l='ServerLevel[world]', x=720.30, y=64.00, z=-199.45] died: Marin was slain by IsaacR
+[22Dec2024 05:37:34.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22Dec2024 05:37:34.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 2.3091210360989862,2.0013359791121417,-9.648225884857283
+[22Dec2024 05:40:43.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/41736, l='ServerLevel[world]', x=1280.30, y=63.34, z=-402.81] died: Witch was slain by IsaacR
+[22Dec2024 05:40:49.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/41751, l='ServerLevel[world]', x=1279.30, y=62.58, z=-396.30] died: Witch was slain by IsaacR
+[22Dec2024 05:43:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Spooky Scary Skeleton]
+[22Dec2024 05:44:17.477] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Gulnur}[style={}] has been infected
+[22Dec2024 05:45:21.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 05:45:54.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:50:11.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has reached the goal [Zombie Doctor]
+[22Dec2024 05:50:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[22Dec2024 05:51:56.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed Sea Serpent]
+[22Dec2024 05:53:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> [name:"Aldea de la costa industrial", x:762, y:64, z:-195, dim:minecraft:overworld]
+[22Dec2024 05:54:06.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Christopher (Staying) to A07K]
+[22Dec2024 05:54:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
