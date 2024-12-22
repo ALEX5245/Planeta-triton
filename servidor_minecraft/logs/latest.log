@@ -1,98 +1,592 @@
-[15Dec2024 03:05:46.129] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[15Dec2024 03:05:46.135] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[15Dec2024 03:05:52.094] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Dec2024 03:05:52.370] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Planeta-triton/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Dec2024 03:05:52.976] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 03:05:52.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 03:05:52.978] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 03:05:52.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Dec2024 03:05:53.432] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[15Dec2024 03:05:56.374] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Dec2024 03:05:56.585] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[15Dec2024 03:05:56.586] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[15Dec2024 03:05:56.589] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[15Dec2024 03:05:58.231] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[15Dec2024 03:05:58.232] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[15Dec2024 03:05:58.232] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[15Dec2024 03:05:58.234] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[15Dec2024 03:05:58.234] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[15Dec2024 03:05:58.235] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[15Dec2024 03:05:58.236] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[15Dec2024 03:05:58.236] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[15Dec2024 03:06:08.823] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[15Dec2024 03:06:08.847] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[15Dec2024 03:06:09.612] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Dec2024 03:06:09.613] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Dec2024 03:06:09.816] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
-[15Dec2024 03:06:10.144] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
-[15Dec2024 03:06:10.469] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
-[15Dec2024 03:06:10.606] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[15Dec2024 03:06:14.974] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:warped for nether fungus species dynamictrees:warpedis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
-[15Dec2024 03:06:14.981] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:warped for nether fungus species dynamictrees:mega_warpedis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
-[15Dec2024 03:06:14.982] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:crimson for nether fungus species dynamictrees:mega_crimsonis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
-[15Dec2024 03:06:14.986] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:crimson for nether fungus species dynamictrees:crimsonis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
-[15Dec2024 03:06:17.191] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[15Dec2024 03:06:17.192] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
-[15Dec2024 03:06:17.528] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
-[15Dec2024 03:06:17.530] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
-[15Dec2024 03:06:17.614] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
-[15Dec2024 03:06:17.625] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
-[15Dec2024 03:06:17.641] [modloading-worker-0/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO FROM PREINIT
-[15Dec2024 03:06:18.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[15Dec2024 03:06:18.485] [main/INFO] [journeymap/]: Initializing Packet Registries
-[15Dec2024 03:06:18.681] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[15Dec2024 03:06:18.732] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[15Dec2024 03:06:18.742] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[15Dec2024 03:06:18.755] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[15Dec2024 03:06:18.760] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[15Dec2024 03:06:18.762] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[15Dec2024 03:06:18.762] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[15Dec2024 03:06:18.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[15Dec2024 03:06:18.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[15Dec2024 03:06:19.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[15Dec2024 03:06:19.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Dec2024 03:06:19.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[15Dec2024 03:06:19.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[15Dec2024 03:06:19.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.19
-[15Dec2024 03:06:19.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[15Dec2024 03:06:19.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[15Dec2024 03:06:19.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[15Dec2024 03:06:20.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.19
-[15Dec2024 03:06:20.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[15Dec2024 03:06:20.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
-[15Dec2024 03:06:20.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[15Dec2024 03:06:20.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.0-BETA11 Target: null
-[15Dec2024 03:06:22.743] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Dec2024 03:06:25.733] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
-[15Dec2024 03:06:25.735] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
-[15Dec2024 03:06:27.233] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.235] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.250] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.251] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.263] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.263] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.264] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.264] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.265] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.265] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:27.266] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[15Dec2024 03:06:29.085] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[15Dec2024 03:06:29.107] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
-[15Dec2024 03:06:30.728] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost:entities/roost_rider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[15Dec2024 03:06:30.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ravageandcabbage:netherite_horn_armor
+[22Dec2024 04:03:02.617] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22Dec2024 04:03:02.623] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Dec2024 04:03:03.887] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Dec2024 04:03:03.943] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Planeta-triton/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Dec2024 04:03:04.203] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 04:03:04.204] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 04:03:04.205] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 04:03:04.206] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 04:03:04.453] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[22Dec2024 04:03:06.787] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Dec2024 04:03:06.941] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[22Dec2024 04:03:06.943] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[22Dec2024 04:03:06.945] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Dec2024 04:03:07.078] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 04:03:08.540] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[22Dec2024 04:03:08.540] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[22Dec2024 04:03:08.541] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[22Dec2024 04:03:08.542] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[22Dec2024 04:03:08.542] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[22Dec2024 04:03:08.543] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[22Dec2024 04:03:08.544] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[22Dec2024 04:03:08.544] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[22Dec2024 04:03:16.198] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Dec2024 04:03:16.215] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Dec2024 04:03:16.948] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[22Dec2024 04:03:17.011] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Dec2024 04:03:17.011] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Dec2024 04:03:17.335] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[22Dec2024 04:03:17.701] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[22Dec2024 04:03:17.849] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Dec2024 04:03:17.871] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[22Dec2024 04:03:21.340] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:warped for nether fungus species dynamictrees:warpedis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
+[22Dec2024 04:03:21.345] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:warped for nether fungus species dynamictrees:mega_warpedis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
+[22Dec2024 04:03:21.346] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:crimson for nether fungus species dynamictrees:mega_crimsonis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
+[22Dec2024 04:03:21.349] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies/]: Family dynamictrees:crimson for nether fungus species dynamictrees:crimsonis not of type class com.ferreusveritas.dynamictrees.tree.species.NetherFungusSpecies
+[22Dec2024 04:03:23.025] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[22Dec2024 04:03:23.026] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.becks.uniquedungeons.common.entities.city_snow_mobs.catapults.CitySnowCatapult from class com.becks.uniquedungeons.common.entities.city_snow_mobs.big_bob.CitySnowBigBob
+[22Dec2024 04:03:23.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.108] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.118] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.122] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.123] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Dec2024 04:03:23.125] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Dec2024 04:03:23.277] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO FROM COMMON SETUP
+[22Dec2024 04:03:23.285] [modloading-worker-0/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: DIRT BLOCK >> minecraft:dirt
+[22Dec2024 04:03:23.330] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[22Dec2024 04:03:23.373] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[22Dec2024 04:03:23.407] [modloading-worker-0/INFO] [com.song.castle_in_the_sky.CastleInTheSky/]: HELLO FROM PREINIT
+[22Dec2024 04:03:23.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22Dec2024 04:03:23.932] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Dec2024 04:03:24.091] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[22Dec2024 04:03:24.100] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Dec2024 04:03:24.112] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Dec2024 04:03:24.117] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Dec2024 04:03:24.119] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[22Dec2024 04:03:24.120] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[22Dec2024 04:03:24.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[22Dec2024 04:03:24.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Dec2024 04:03:24.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
+[22Dec2024 04:03:24.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Dec2024 04:03:24.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[22Dec2024 04:03:24.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[22Dec2024 04:03:25.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.19
+[22Dec2024 04:03:25.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[22Dec2024 04:03:25.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[22Dec2024 04:03:25.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[22Dec2024 04:03:25.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: OUTDATED Current: 1.20.1-1.0.14 Target: 1.20.1-1.0.19
+[22Dec2024 04:03:25.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Dec2024 04:03:25.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.6 Target: 0.7.12
+[22Dec2024 04:03:25.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[22Dec2024 04:03:25.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.3.0-BETA11 Target: null
+[22Dec2024 04:03:27.164] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Dec2024 04:03:27.280] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+eeeabsmobs (version 1.20.1-0.93 -> MISSING)
+Things may not work well.
+[22Dec2024 04:03:27.399] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	eeeabsmobs:erosion_deepslate_bricks: 1591
+	eeeabsmobs:erosion_portal: 1592
+	eeeabsmobs:ghost_steel_block: 1586
+	eeeabsmobs:immortal_block: 1585
+	eeeabsmobs:soul_light: 1587
+	eeeabsmobs:tomb_arrows_trap: 1590
+	eeeabsmobs:tomb_gas_trap: 1588
+	eeeabsmobs:tomb_summon_trap: 1589
+	eeeabsmobs:tombstone: 1593
+
+[22Dec2024 04:03:27.400] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	eeeabsmobs:alien_portal: 489
+	eeeabsmobs:blood_ball: 483
+	eeeabsmobs:camera_shake: 475
+	eeeabsmobs:corpse: 459
+	eeeabsmobs:corpse_to_player: 462
+	eeeabsmobs:corpse_villager: 460
+	eeeabsmobs:corpse_warlock: 461
+	eeeabsmobs:crimson_crack: 484
+	eeeabsmobs:crimson_ray: 485
+	eeeabsmobs:crimson_ray_pre: 486
+	eeeabsmobs:electromagnetic: 488
+	eeeabsmobs:explode: 473
+	eeeabsmobs:eye_of_structure: 481
+	eeeabsmobs:falling_block: 477
+	eeeabsmobs:grenade: 487
+	eeeabsmobs:guardian_blade: 479
+	eeeabsmobs:guardian_laser: 478
+	eeeabsmobs:guling_sentinel: 469
+	eeeabsmobs:guling_sentinel_heavy: 470
+	eeeabsmobs:immortal: 468
+	eeeabsmobs:immortal_executioner: 467
+	eeeabsmobs:immortal_golem: 466
+	eeeabsmobs:immortal_knight: 464
+	eeeabsmobs:immortal_shaman: 465
+	eeeabsmobs:immortal_skeleton: 463
+	eeeabsmobs:moving_controller: 476
+	eeeabsmobs:nameless_guardian: 471
+	eeeabsmobs:poison_arrow: 482
+	eeeabsmobs:scorch: 480
+	eeeabsmobs:shaman_bomb: 474
+	eeeabsmobs:tester: 472
+
+[22Dec2024 04:03:27.401] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	eeeabsmobs:ancient_drive_crystal: 2954
+	eeeabsmobs:bloody_altar_eye: 2938
+	eeeabsmobs:corpse_egg: 2928
+	eeeabsmobs:corpse_villager_egg: 2929
+	eeeabsmobs:corpse_warlock_egg: 2930
+	eeeabsmobs:demolisher: 2955
+	eeeabsmobs:erosion_deepslate_bricks: 2962
+	eeeabsmobs:erosion_portal: 2963
+	eeeabsmobs:ghost_steel_block: 2957
+	eeeabsmobs:ghost_steel_ingot: 2941
+	eeeabsmobs:ghost_warrior_boots: 2944
+	eeeabsmobs:ghost_warrior_chestplate: 2943
+	eeeabsmobs:ghost_warrior_helmet: 2942
+	eeeabsmobs:ghost_warrior_leggings: 2945
+	eeeabsmobs:guardian_axe: 2948
+	eeeabsmobs:guardian_core: 2939
+	eeeabsmobs:guardians_music_disc: 2949
+	eeeabsmobs:guling_eye: 2937
+	eeeabsmobs:guling_sentinel_egg: 2926
+	eeeabsmobs:guling_sentinel_heavy_egg: 2927
+	eeeabsmobs:heart_of_pagan: 2951
+	eeeabsmobs:immortal_axe: 2946
+	eeeabsmobs:immortal_block: 2956
+	eeeabsmobs:immortal_bone: 2934
+	eeeabsmobs:immortal_boss_egg: 2924
+	eeeabsmobs:immortal_debris: 2936
+	eeeabsmobs:immortal_executioner_egg: 2923
+	eeeabsmobs:immortal_golem_egg: 2922
+	eeeabsmobs:immortal_ingot: 2940
+	eeeabsmobs:immortal_knight_egg: 2920
+	eeeabsmobs:immortal_shaman_egg: 2921
+	eeeabsmobs:immortal_skeleton_egg: 2919
+	eeeabsmobs:immortal_staff: 2935
+	eeeabsmobs:immortal_sword: 2947
+	eeeabsmobs:logo_item: 2932
+	eeeabsmobs:nameless_guardian_egg: 2925
+	eeeabsmobs:netherworld_katana: 2953
+	eeeabsmobs:remove_mob: 2933
+	eeeabsmobs:soul_light: 2958
+	eeeabsmobs:soul_summoning_necklace: 2952
+	eeeabsmobs:tester_egg: 2931
+	eeeabsmobs:the_army_of_minotaur_music_disc: 2950
+	eeeabsmobs:tomb_arrows_trap: 2961
+	eeeabsmobs:tomb_gas_trap: 2959
+	eeeabsmobs:tomb_summon_trap: 2960
+	eeeabsmobs:tombstone: 2964
+
+[22Dec2024 04:03:27.402] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	eeeabsmobs:armor_lower_effect: 70
+	eeeabsmobs:erode_effect: 69
+	eeeabsmobs:frenzy_effect: 72
+	eeeabsmobs:vertigo_effect: 71
+
+[22Dec2024 04:03:27.403] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:point_of_interest_type
+	eeeabsmobs:erosion_portal: 37
+
+[22Dec2024 04:03:27.403] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:potion
+	eeeabsmobs:frenzy_potion: 74
+
+[22Dec2024 04:03:27.403] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	eeeabsmobs:break: 2408
+	eeeabsmobs:corpse.death: 2442
+	eeeabsmobs:corpse.hurt: 2441
+	eeeabsmobs:corpse.idle: 2443
+	eeeabsmobs:corpse_warlock.hurt: 2444
+	eeeabsmobs:corpse_warlock_tear: 2445
+	eeeabsmobs:crimson_ray: 2407
+	eeeabsmobs:giant_axe_hit: 2406
+	eeeabsmobs:gs.death: 2419
+	eeeabsmobs:gs.electromagnetic: 2420
+	eeeabsmobs:gs.hurt: 2418
+	eeeabsmobs:gsh.attack: 2427
+	eeeabsmobs:gsh.death: 2429
+	eeeabsmobs:gsh.electromagnetic: 2424
+	eeeabsmobs:gsh.friction: 2423
+	eeeabsmobs:gsh.hurt: 2428
+	eeeabsmobs:gsh.idle: 2422
+	eeeabsmobs:gsh.pre_attack: 2426
+	eeeabsmobs:gsh.spark: 2425
+	eeeabsmobs:gsh.step: 2421
+	eeeabsmobs:immortal.golem.death: 2417
+	eeeabsmobs:immortal.golem.hurt: 2416
+	eeeabsmobs:immortal.shaman.death: 2415
+	eeeabsmobs:immortal.shaman.hurt: 2414
+	eeeabsmobs:immortal.shaman.prepare_shoot: 2412
+	eeeabsmobs:immortal.shaman.prepare_spell_casting: 2413
+	eeeabsmobs:immortal.skeleton.death: 2411
+	eeeabsmobs:immortal.skeleton.hurt: 2410
+	eeeabsmobs:immortal.skeleton.roar: 2409
+	eeeabsmobs:laser: 2405
+	eeeabsmobs:music.guardians: 2446
+	eeeabsmobs:music.nameless_guardian_theme_1: 2448
+	eeeabsmobs:music.nameless_guardian_theme_2: 2447
+	eeeabsmobs:music.the_army_of_minotaur: 2449
+	eeeabsmobs:nameless.guardian.accumulating: 2434
+	eeeabsmobs:nameless.guardian.accumulating_end: 2435
+	eeeabsmobs:nameless.guardian.creak: 2432
+	eeeabsmobs:nameless.guardian.death: 2440
+	eeeabsmobs:nameless.guardian.hurt: 2439
+	eeeabsmobs:nameless.guardian.idle: 2431
+	eeeabsmobs:nameless.guardian.madness: 2438
+	eeeabsmobs:nameless.guardian.pre_pounce: 2437
+	eeeabsmobs:nameless.guardian.pre_swing: 2433
+	eeeabsmobs:nameless.guardian.step: 2430
+	eeeabsmobs:nameless.guardian.whoosh: 2436
+
+[22Dec2024 04:03:27.405] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 137 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[22Dec2024 04:03:27.405] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    eeeabsmobs:break
+    eeeabsmobs:corpse.death
+    eeeabsmobs:corpse.hurt
+    eeeabsmobs:corpse.idle
+    eeeabsmobs:corpse_warlock.hurt
+    eeeabsmobs:corpse_warlock_tear
+    eeeabsmobs:crimson_ray
+    eeeabsmobs:giant_axe_hit
+    eeeabsmobs:gs.death
+    eeeabsmobs:gs.electromagnetic
+    eeeabsmobs:gs.hurt
+    eeeabsmobs:gsh.attack
+    eeeabsmobs:gsh.death
+    eeeabsmobs:gsh.electromagnetic
+    eeeabsmobs:gsh.friction
+    eeeabsmobs:gsh.hurt
+    eeeabsmobs:gsh.idle
+    eeeabsmobs:gsh.pre_attack
+    eeeabsmobs:gsh.spark
+    eeeabsmobs:gsh.step
+    eeeabsmobs:immortal.golem.death
+    eeeabsmobs:immortal.golem.hurt
+    eeeabsmobs:immortal.shaman.death
+    eeeabsmobs:immortal.shaman.hurt
+    eeeabsmobs:immortal.shaman.prepare_shoot
+    eeeabsmobs:immortal.shaman.prepare_spell_casting
+    eeeabsmobs:immortal.skeleton.death
+    eeeabsmobs:immortal.skeleton.hurt
+    eeeabsmobs:immortal.skeleton.roar
+    eeeabsmobs:laser
+    eeeabsmobs:music.guardians
+    eeeabsmobs:music.nameless_guardian_theme_1
+    eeeabsmobs:music.nameless_guardian_theme_2
+    eeeabsmobs:music.the_army_of_minotaur
+    eeeabsmobs:nameless.guardian.accumulating
+    eeeabsmobs:nameless.guardian.accumulating_end
+    eeeabsmobs:nameless.guardian.creak
+    eeeabsmobs:nameless.guardian.death
+    eeeabsmobs:nameless.guardian.hurt
+    eeeabsmobs:nameless.guardian.idle
+    eeeabsmobs:nameless.guardian.madness
+    eeeabsmobs:nameless.guardian.pre_pounce
+    eeeabsmobs:nameless.guardian.pre_swing
+    eeeabsmobs:nameless.guardian.step
+    eeeabsmobs:nameless.guardian.whoosh
+
+Missing minecraft:item:
+    eeeabsmobs:ancient_drive_crystal
+    eeeabsmobs:bloody_altar_eye
+    eeeabsmobs:corpse_egg
+    eeeabsmobs:corpse_villager_egg
+    eeeabsmobs:corpse_warlock_egg
+    eeeabsmobs:demolisher
+    eeeabsmobs:erosion_deepslate_bricks
+    eeeabsmobs:erosion_portal
+    eeeabsmobs:ghost_steel_block
+    eeeabsmobs:ghost_steel_ingot
+    eeeabsmobs:ghost_warrior_boots
+    eeeabsmobs:ghost_warrior_chestplate
+    eeeabsmobs:ghost_warrior_helmet
+    eeeabsmobs:ghost_warrior_leggings
+    eeeabsmobs:guardian_axe
+    eeeabsmobs:guardian_core
+    eeeabsmobs:guardians_music_disc
+    eeeabsmobs:guling_eye
+    eeeabsmobs:guling_sentinel_egg
+    eeeabsmobs:guling_sentinel_heavy_egg
+    eeeabsmobs:heart_of_pagan
+    eeeabsmobs:immortal_axe
+    eeeabsmobs:immortal_block
+    eeeabsmobs:immortal_bone
+    eeeabsmobs:immortal_boss_egg
+    eeeabsmobs:immortal_debris
+    eeeabsmobs:immortal_executioner_egg
+    eeeabsmobs:immortal_golem_egg
+    eeeabsmobs:immortal_ingot
+    eeeabsmobs:immortal_knight_egg
+    eeeabsmobs:immortal_shaman_egg
+    eeeabsmobs:immortal_skeleton_egg
+    eeeabsmobs:immortal_staff
+    eeeabsmobs:immortal_sword
+    eeeabsmobs:logo_item
+    eeeabsmobs:nameless_guardian_egg
+    eeeabsmobs:netherworld_katana
+    eeeabsmobs:remove_mob
+    eeeabsmobs:soul_light
+    eeeabsmobs:soul_summoning_necklace
+    eeeabsmobs:tester_egg
+    eeeabsmobs:the_army_of_minotaur_music_disc
+    eeeabsmobs:tomb_arrows_trap
+    eeeabsmobs:tomb_gas_trap
+    eeeabsmobs:tomb_summon_trap
+    eeeabsmobs:tombstone
+
+Missing minecraft:potion:
+    eeeabsmobs:frenzy_potion
+
+Missing minecraft:block:
+    eeeabsmobs:erosion_deepslate_bricks
+    eeeabsmobs:erosion_portal
+    eeeabsmobs:ghost_steel_block
+    eeeabsmobs:immortal_block
+    eeeabsmobs:soul_light
+    eeeabsmobs:tomb_arrows_trap
+    eeeabsmobs:tomb_gas_trap
+    eeeabsmobs:tomb_summon_trap
+    eeeabsmobs:tombstone
+
+Missing minecraft:point_of_interest_type:
+    eeeabsmobs:erosion_portal
+
+Missing minecraft:mob_effect:
+    eeeabsmobs:armor_lower_effect
+    eeeabsmobs:erode_effect
+    eeeabsmobs:frenzy_effect
+    eeeabsmobs:vertigo_effect
+
+Missing minecraft:entity_type:
+    eeeabsmobs:alien_portal
+    eeeabsmobs:blood_ball
+    eeeabsmobs:camera_shake
+    eeeabsmobs:corpse
+    eeeabsmobs:corpse_to_player
+    eeeabsmobs:corpse_villager
+    eeeabsmobs:corpse_warlock
+    eeeabsmobs:crimson_crack
+    eeeabsmobs:crimson_ray
+    eeeabsmobs:crimson_ray_pre
+    eeeabsmobs:electromagnetic
+    eeeabsmobs:explode
+    eeeabsmobs:eye_of_structure
+    eeeabsmobs:falling_block
+    eeeabsmobs:grenade
+    eeeabsmobs:guardian_blade
+    eeeabsmobs:guardian_laser
+    eeeabsmobs:guling_sentinel
+    eeeabsmobs:guling_sentinel_heavy
+    eeeabsmobs:immortal
+    eeeabsmobs:immortal_executioner
+    eeeabsmobs:immortal_golem
+    eeeabsmobs:immortal_knight
+    eeeabsmobs:immortal_shaman
+    eeeabsmobs:immortal_skeleton
+    eeeabsmobs:moving_controller
+    eeeabsmobs:nameless_guardian
+    eeeabsmobs:poison_arrow
+    eeeabsmobs:scorch
+    eeeabsmobs:shaman_bomb
+    eeeabsmobs:tester
+
+
+[22Dec2024 04:03:27.405] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[22Dec2024 04:03:27.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:rose_gold_block Expected: 2230 Got: 2322
+[22Dec2024 04:03:27.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:jeweler_workbench Expected: 2231 Got: 2323
+[22Dec2024 04:03:27.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:infernal_flame Expected: 2232 Got: 2324
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:gravelling_headstone Expected: 2233 Got: 2325
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:upright_headstone Expected: 2234 Got: 2326
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:slanted_headstone Expected: 2235 Got: 2327
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:cross_headstone Expected: 2236 Got: 2328
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:wall_headstone Expected: 2237 Got: 2329
+[22Dec2024 04:03:27.410] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:cobblestone_upright_headstone Expected: 2238 Got: 2330
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:cobblestone_slanted_headstone Expected: 2239 Got: 2331
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:wooden_upright_headstone Expected: 2240 Got: 2332
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:wooden_slanted_headstone Expected: 2241 Got: 2333
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:golden_upright_headstone Expected: 2242 Got: 2334
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:golden_slanted_headstone Expected: 2243 Got: 2335
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:deepslate_upright_headstone Expected: 2244 Got: 2336
+[22Dec2024 04:03:27.411] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mca:deepslate_slanted_headstone Expected: 2245 Got: 2337
+[22Dec2024 04:03:27.413] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:male_villager_spawn_egg Expected: 3694 Got: 3770
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:female_villager_spawn_egg Expected: 3695 Got: 3771
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:male_zombie_villager_spawn_egg Expected: 3696 Got: 3772
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:female_zombie_villager_spawn_egg Expected: 3697 Got: 3773
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:grim_reaper_spawn_egg Expected: 3698 Got: 3774
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:baby_boy Expected: 3699 Got: 3775
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:baby_girl Expected: 3700 Got: 3776
+[22Dec2024 04:03:27.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:sirben_baby_boy Expected: 3701 Got: 3777
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:sirben_baby_girl Expected: 3702 Got: 3778
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:wedding_ring Expected: 3703 Got: 3779
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:wedding_ring_rg Expected: 3704 Got: 3780
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:engagement_ring Expected: 3705 Got: 3781
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:engagement_ring_rg Expected: 3706 Got: 3782
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:matchmakers_ring Expected: 3707 Got: 3783
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:villager_editor Expected: 3708 Got: 3784
+[22Dec2024 04:03:27.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:staff_of_life Expected: 3709 Got: 3785
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:whistle Expected: 3710 Got: 3786
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:blueprint Expected: 3711 Got: 3787
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:family_tree Expected: 3712 Got: 3788
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:bouquet Expected: 3713 Got: 3789
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:potion_of_feminity Expected: 3714 Got: 3790
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:potion_of_masculinity Expected: 3715 Got: 3791
+[22Dec2024 04:03:27.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:needle_and_thread Expected: 3716 Got: 3792
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:comb Expected: 3717 Got: 3793
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_death Expected: 3718 Got: 3794
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_romance Expected: 3719 Got: 3795
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_family Expected: 3720 Got: 3796
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_rose_gold Expected: 3721 Got: 3797
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_infection Expected: 3722 Got: 3798
+[22Dec2024 04:03:27.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_blueprint Expected: 3723 Got: 3799
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_supporters Expected: 3724 Got: 3800
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_cult_0 Expected: 3725 Got: 3801
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_cult_1 Expected: 3726 Got: 3802
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_cult_2 Expected: 3727 Got: 3803
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:book_cult_ancient Expected: 3728 Got: 3804
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:letter Expected: 3729 Got: 3805
+[22Dec2024 04:03:27.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:civil_registry Expected: 3730 Got: 3806
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:villager_tracker Expected: 3731 Got: 3807
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:rose_gold_dust Expected: 3732 Got: 3808
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:rose_gold_ingot Expected: 3733 Got: 3809
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:divorce_papers Expected: 3734 Got: 3810
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:rose_gold_block Expected: 3735 Got: 3811
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:jeweler_workbench Expected: 3736 Got: 3812
+[22Dec2024 04:03:27.419] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:gravelling_headstone Expected: 3737 Got: 3813
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:upright_headstone Expected: 3738 Got: 3814
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:slanted_headstone Expected: 3739 Got: 3815
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:cross_headstone Expected: 3740 Got: 3816
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:wall_headstone Expected: 3741 Got: 3817
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:cobblestone_upright_headstone Expected: 3742 Got: 3818
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:cobblestone_slanted_headstone Expected: 3743 Got: 3819
+[22Dec2024 04:03:27.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:wooden_upright_headstone Expected: 3744 Got: 3820
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:wooden_slanted_headstone Expected: 3745 Got: 3821
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:golden_upright_headstone Expected: 3746 Got: 3822
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:golden_slanted_headstone Expected: 3747 Got: 3823
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:deepslate_upright_headstone Expected: 3748 Got: 3824
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:deepslate_slanted_headstone Expected: 3749 Got: 3825
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mca:scythe Expected: 3750 Got: 3826
+[22Dec2024 04:03:27.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_hammer Expected: 3751 Got: 3827
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_hammer Expected: 3752 Got: 3828
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_hammer Expected: 3753 Got: 3829
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_hammer Expected: 3754 Got: 3830
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_hammer Expected: 3755 Got: 3831
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_impact_hammer Expected: 3756 Got: 3832
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_impact_hammer Expected: 3757 Got: 3833
+[22Dec2024 04:03:27.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_impact_hammer Expected: 3758 Got: 3834
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_impact_hammer Expected: 3759 Got: 3835
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_impact_hammer Expected: 3760 Got: 3836
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_reinforced_hammer Expected: 3761 Got: 3837
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_reinforced_hammer Expected: 3762 Got: 3838
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_reinforced_hammer Expected: 3763 Got: 3839
+[22Dec2024 04:03:27.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_reinforced_hammer Expected: 3764 Got: 3840
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_reinforced_hammer Expected: 3765 Got: 3841
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_reinforced_impact_hammer Expected: 3766 Got: 3842
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_reinforced_impact_hammer Expected: 3767 Got: 3843
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_reinforced_impact_hammer Expected: 3768 Got: 3844
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_reinforced_impact_hammer Expected: 3769 Got: 3845
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_reinforced_impact_hammer Expected: 3770 Got: 3846
+[22Dec2024 04:03:27.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_destructor_hammer Expected: 3771 Got: 3847
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_destructor_hammer Expected: 3772 Got: 3848
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_destructor_hammer Expected: 3773 Got: 3849
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_destructor_hammer Expected: 3774 Got: 3850
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_destructor_hammer Expected: 3775 Got: 3851
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:impact_core Expected: 3776 Got: 3852
+[22Dec2024 04:03:27.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:reinforced_core Expected: 3777 Got: 3853
+[22Dec2024 04:03:27.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:reinforced_impact_core Expected: 3778 Got: 3854
+[22Dec2024 04:03:27.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:destructor_core Expected: 3779 Got: 3855
+[22Dec2024 04:03:27.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.scythe_out Expected: 2597 Got: 2657
+[22Dec2024 04:03:27.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.scythe_swing Expected: 2598 Got: 2658
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.idle Expected: 2599 Got: 2659
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.death Expected: 2600 Got: 2660
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.block Expected: 2601 Got: 2661
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:reaper.summon Expected: 2602 Got: 2662
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.baby.laugh Expected: 2603 Got: 2663
+[22Dec2024 04:03:27.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.scream Expected: 2604 Got: 2664
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.scream Expected: 2605 Got: 2665
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.hurt Expected: 2606 Got: 2666
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.hurt Expected: 2607 Got: 2667
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.laugh Expected: 2608 Got: 2668
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.laugh Expected: 2609 Got: 2669
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.cry Expected: 2610 Got: 2670
+[22Dec2024 04:03:27.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.cry Expected: 2611 Got: 2671
+[22Dec2024 04:03:27.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.angry Expected: 2612 Got: 2672
+[22Dec2024 04:03:27.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.angry Expected: 2613 Got: 2673
+[22Dec2024 04:03:27.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.celebrate Expected: 2614 Got: 2674
+[22Dec2024 04:03:27.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.celebrate Expected: 2615 Got: 2675
+[22Dec2024 04:03:27.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.greet Expected: 2616 Got: 2676
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.greet Expected: 2617 Got: 2677
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.surprise Expected: 2618 Got: 2678
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.surprise Expected: 2619 Got: 2679
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.yes Expected: 2620 Got: 2680
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.yes Expected: 2621 Got: 2681
+[22Dec2024 04:03:27.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.no Expected: 2622 Got: 2682
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.no Expected: 2623 Got: 2683
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.cough Expected: 2624 Got: 2684
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.cough Expected: 2625 Got: 2685
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.male.snore Expected: 2626 Got: 2686
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.female.snore Expected: 2627 Got: 2687
+[22Dec2024 04:03:27.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:villager.sirben Expected: 2628 Got: 2688
+[22Dec2024 04:03:27.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mca:silent Expected: 2629 Got: 2689
+[22Dec2024 04:03:27.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mca:male_villager Expected: 541 Got: 577
+[22Dec2024 04:03:27.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mca:female_villager Expected: 542 Got: 578
+[22Dec2024 04:03:27.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mca:male_zombie_villager Expected: 543 Got: 579
+[22Dec2024 04:03:27.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mca:female_zombie_villager Expected: 544 Got: 580
+[22Dec2024 04:03:27.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mca:grim_reaper Expected: 545 Got: 581
+[22Dec2024 04:03:29.234] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/assets/.mcassetsroot' uses unexpected schema
+[22Dec2024 04:03:29.234] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Planeta-triton/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23223!/data/.mcassetsroot' uses unexpected schema
+[22Dec2024 04:03:29.296] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:eeeabsmobs
+[22Dec2024 04:03:30.120] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.121] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.170] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.171] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.176] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.176] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.176] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.176] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.177] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.177] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:30.177] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[22Dec2024 04:03:31.557] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Dec2024 04:03:31.578] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[22Dec2024 04:03:32.557] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost:entities/roost_rider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22Dec2024 04:03:32.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ravageandcabbage:netherite_horn_armor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
@@ -106,29 +600,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 03:06:30.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim
+[22Dec2024 04:03:32.624] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe taxov:x_trim_smithing_template_smithing_trim
 com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.SmithingTrimRecipe$Serializer.m_6729_(SmithingTrimRecipe.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.SmithingTrimRecipe$Serializer.m_6729_(SmithingTrimRecipe.java:100) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23224!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.SmithingTrimRecipe$Serializer.m_6729_(SmithingTrimRecipe.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.SmithingTrimRecipe$Serializer.m_6729_(SmithingTrimRecipe.java:100) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23228!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
@@ -142,20 +636,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 03:06:30.895] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
+[22Dec2024 04:03:32.730] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
-	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23219!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23223!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
@@ -169,605 +663,87 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Dec2024 03:06:30.904] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[15Dec2024 03:06:31.096] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3051 advancements
-[15Dec2024 03:06:31.240] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[15Dec2024 03:06:31.246] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[15Dec2024 03:06:34.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Dec2024 03:06:34.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Dec2024 03:06:34.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Dec2024 03:06:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Dec2024 03:06:34.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Dec2024 03:06:34.435] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Dec2024 03:06:34.558] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Dec2024 03:06:34.559] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Dec2024 03:06:34.559] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Dec2024 03:06:34.560] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Dec2024 03:06:34.616] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[15Dec2024 03:06:34.956] [Server thread/INFO] [Framework/]: Loading server configs...
-[15Dec2024 03:06:34.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Dec2024 03:06:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Dec2024 03:06:52.030] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.049] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.064] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.072] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.076] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.230] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.258] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.278] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.295] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:52.770] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:53.414] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:53.744] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:54.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:54.730] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Dec2024 03:06:55.230] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[15Dec2024 03:06:55.730] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
-[15Dec2024 03:06:56.096] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9867 ms
-[15Dec2024 03:06:56.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.521s)! For help, type "help"
-[15Dec2024 03:06:56.182] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Dec2024 03:06:56.214] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
-[15Dec2024 03:06:56.218] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[15Dec2024 03:06:56.219] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[15Dec2024 03:06:56.224] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
-[15Dec2024 03:08:02.798] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 03:08:02.813] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 03:08:02.817] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 03:08:02.935] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 03:08:03.018] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 03:08:03.019] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 03:08:03.023] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 03:08:03.144] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 03:08:03.223] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 03:08:03.229] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 03:08:03.230] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 03:08:03.348] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 03:08:03.613] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 03:08:03.629] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 03:08:03.630] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 03:08:03.630] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 03:08:09.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:40281] logged in with entity id 30 at (-84.51065080765859, 5.854878400919133, -252.91295861774668)
-[15Dec2024 03:08:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
-[15Dec2024 03:08:09.358] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
-[15Dec2024 03:08:11.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[15Dec2024 03:10:49.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
-[15Dec2024 03:12:02.457] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 03:12:02.544] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 03:12:02.643] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 03:12:02.644] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 03:12:02.748] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 03:12:02.749] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 03:12:02.750] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 03:12:02.845] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 03:12:02.853] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 03:12:02.953] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 03:12:02.954] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 03:12:03.038] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 03:12:03.173] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 03:12:03.174] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 03:12:03.241] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 03:12:03.241] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 03:12:07.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:34959] logged in with entity id 2827 at (-88.587339784424, 7.5475353020603215, -244.0474992069467)
-[15Dec2024 03:12:07.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
-[15Dec2024 03:12:07.289] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
-[15Dec2024 03:12:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
-[15Dec2024 03:12:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Mientras acabo con Pao, vamos aplanando xd
-[15Dec2024 03:13:18.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=6, z=-231} BlockPos{x=-97, y=5, z=-232}
-[15Dec2024 03:13:18.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=6, z=-231} BlockPos{x=-97, y=5, z=-232}
-[15Dec2024 03:14:53.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Sea Serpent
-[15Dec2024 03:14:58.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Khe
-[15Dec2024 03:15:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Sea? Not a Problem]
-[15Dec2024 03:16:08.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9616, l='ServerLevel[world]', x=21.50, y=20.00, z=-207.50]
-[15Dec2024 03:16:17.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=8, z=-233} BlockPos{x=-101, y=9, z=-233}
-[15Dec2024 03:18:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Sea Serpent
-[15Dec2024 03:19:51.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:51.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.790] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:52.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.796] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:53.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:54.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:55.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:56.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:57.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:58.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:19:59.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:00.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.492] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.892] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:01.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:02.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:03.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:04.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:05.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:06.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.194] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:07.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:08.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:09.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:10.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:11.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:12.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.790] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:13.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:14.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:15.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:16.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.592] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:17.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:18.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.790] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:19.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:20.992] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:21.989] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:20:22.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[15Dec2024 03:23:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Acabo de matar 2 serpientes marinas juntas sin morir xd
-[15Dec2024 03:24:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> YO iba a saludar a un ahogado pensando que eras tu xd
-[15Dec2024 03:25:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> voy por madera xd
-[15Dec2024 03:25:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> A eso fui
-[15Dec2024 03:25:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Aca traigo
-[15Dec2024 03:26:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> HAz cofres y letreros xd
-[15Dec2024 03:26:08.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> EN la mochila
-[15Dec2024 03:26:15.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> a
-[15Dec2024 03:26:51.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=5, z=-232} BlockPos{x=-89, y=6, z=-232}
-[15Dec2024 03:27:42.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=6, z=-246} BlockPos{x=-104, y=5, z=-245}
-[15Dec2024 03:27:42.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=6, z=-246} BlockPos{x=-104, y=5, z=-245}
-[15Dec2024 03:27:42.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=6, z=-246} BlockPos{x=-104, y=5, z=-245}
-[15Dec2024 03:27:42.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=6, z=-246} BlockPos{x=-104, y=5, z=-245}
-[15Dec2024 03:28:22.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=8, z=-225} BlockPos{x=-119, y=7, z=-227}
-[15Dec2024 03:36:36.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
-[15Dec2024 03:36:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
-[15Dec2024 03:37:24.231] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 03:37:24.345] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 03:37:24.434] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 03:37:24.435] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 03:37:24.436] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 03:37:24.514] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 03:37:24.639] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 03:37:24.640] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 03:37:24.719] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 03:37:24.719] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 03:37:24.858] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 03:37:24.858] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 03:37:25.033] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 03:37:25.038] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 03:37:25.038] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 03:37:25.079] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 03:37:30.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:47319] logged in with entity id 33449 at (-90.77419456152994, 9.080828111706454, -244.4935764460046)
-[15Dec2024 03:37:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
-[15Dec2024 03:37:30.333] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
-[15Dec2024 03:37:34.531] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33517, l='ServerLevel[world]', x=23.50, y=17.00, z=-210.50]
-[15Dec2024 03:37:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> zoy un pes :v
-[15Dec2024 03:37:57.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Glup Glup
-[15Dec2024 03:38:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> mamhuevo digo glugluglgu :v
-[15Dec2024 03:41:22.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=3, z=-254} BlockPos{x=-111, y=4, z=-254}
-[15Dec2024 03:41:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Tenemos a un bruto sobre nosotros
-[15Dec2024 03:41:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> :0
-[15Dec2024 03:41:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> tDonde?
-[15Dec2024 03:42:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported IsaacR to A07K]
-[15Dec2024 03:43:49.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-114, y=5, z=-246} BlockPos{x=-116, y=6, z=-246}
-[15Dec2024 03:44:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Quedo bien xd
-[15Dec2024 03:44:07.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> cy
-[15Dec2024 03:46:05.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> una ballena en casa xd
-[15Dec2024 03:46:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Lol xd
-[15Dec2024 03:46:13.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Se va a llamar gerardo
-[15Dec2024 03:46:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Gerardo el ballenon xd
-[15Dec2024 03:46:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Que nombre mas epico
-[15Dec2024 03:47:52.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=4, z=-249} BlockPos{x=-118, y=5, z=-249}
-[15Dec2024 03:54:30.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Un tiburon xd
-[15Dec2024 03:54:42.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Tiburocin mujaja
-[15Dec2024 03:55:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ya vab 3 drowners
-[15Dec2024 03:55:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> tPorque te aman tanto?
-[15Dec2024 03:55:13.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> XD
-[15Dec2024 03:55:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Facil porque soy muy sexy xd
-[15Dec2024 03:55:31.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> No te lo discuto xd
-[15Dec2024 03:55:38.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> ._. ?
-[15Dec2024 03:55:41.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Khe
-[15Dec2024 03:55:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Khe
-[15Dec2024 04:02:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Otra loca que te sigue xd
-[15Dec2024 04:02:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> XD
-[15Dec2024 04:02:25.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=3, z=-255} BlockPos{x=-96, y=4, z=-255}
-[15Dec2024 04:02:35.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=4, z=-257} BlockPos{x=-99, y=5, z=-257}
-[15Dec2024 04:02:53.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Desde la superficio se ve como lo iluminaste
-[15Dec2024 04:03:10.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Te pegue? xd
-[15Dec2024 04:03:13.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Si
-[15Dec2024 04:03:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> XD
-[15Dec2024 04:03:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Perdon xd
-[15Dec2024 04:04:18.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=4, z=-257} BlockPos{x=-106, y=5, z=-257}
-[15Dec2024 04:04:39.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=4, z=-259} BlockPos{x=-98, y=5, z=-259}
-[15Dec2024 04:05:03.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
-[15Dec2024 04:05:10.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=8, z=-257} BlockPos{x=-125, y=7, z=-257}
-[15Dec2024 04:05:34.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=5, z=-261} BlockPos{x=-97, y=4, z=-261}
-[15Dec2024 04:05:41.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=6, z=-261} BlockPos{x=-121, y=4, z=-261}
-[15Dec2024 04:05:41.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-122, y=9, z=-260} BlockPos{x=-122, y=8, z=-260}
-[15Dec2024 04:06:49.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 8.103145311295819,-0.3383133500780584,5.862588052945
-[15Dec2024 04:08:06.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Bro, la isla esta habitada por amongus
-[15Dec2024 04:08:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Pero que chucha xd
-[15Dec2024 04:08:40.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ahi va otra loca xd
-[15Dec2024 04:10:25.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> La he kagado
-[15Dec2024 04:10:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Porque?
-[15Dec2024 04:11:05.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Le erré en un bloque
-[15Dec2024 04:11:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Mrda
-[15Dec2024 04:11:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> BRUTO!!
-[15Dec2024 04:11:58.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Donde?
-[15Dec2024 04:12:04.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ah ya
-[15Dec2024 04:12:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Hay dos
-[15Dec2024 04:13:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Discord ??
-[15Dec2024 04:13:57.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Voy, es que Pao esta mal
-[15Dec2024 04:14:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> AHorita te cuento
-[15Dec2024 04:15:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Fui por madera
-[15Dec2024 04:15:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Ok
-[15Dec2024 04:19:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Encontre una aldea
-[15Dec2024 04:20:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Yo encontre Scoria xd
-[15Dec2024 04:20:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Que cosa? xd
-[15Dec2024 04:22:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Listo xd
-[15Dec2024 04:24:40.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74148, l='ServerLevel[world]', x=19.50, y=16.00, z=-206.50]
-[15Dec2024 04:25:52.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=-44, z=-228} BlockPos{x=-134, y=-46, z=-231}
-[15Dec2024 04:26:01.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-231} BlockPos{x=-137, y=-45, z=-232}
-[15Dec2024 04:26:01.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-231} BlockPos{x=-137, y=-45, z=-232}
-[15Dec2024 04:26:01.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=-44, z=-230} BlockPos{x=-137, y=-45, z=-232}
-[15Dec2024 04:27:20.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Timed out
-[15Dec2024 04:27:20.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
-[15Dec2024 04:30:10.561] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 04:30:10.594] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 04:30:10.668] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 04:30:10.670] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 04:30:10.746] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 04:30:10.822] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 04:30:10.824] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 04:30:10.900] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 04:30:10.977] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 04:30:10.987] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 04:30:11.056] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 04:30:11.113] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 04:30:11.309] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 04:30:11.341] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 04:30:11.341] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 04:30:11.341] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 04:30:16.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:36919] logged in with entity id 79538 at (-121.39463795305187, -5.4913583767008625, -220.9242317500308)
-[15Dec2024 04:30:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
-[15Dec2024 04:30:16.674] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
-[15Dec2024 04:31:50.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32265ms or 645 ticks behind
-[15Dec2024 04:31:50.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
-[15Dec2024 04:31:50.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
-[15Dec2024 04:31:50.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
-[15Dec2024 04:31:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
-[15Dec2024 04:31:54.462] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 04:31:54.595] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 04:31:54.630] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 04:31:54.725] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 04:31:54.725] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 04:31:54.731] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 04:31:54.860] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 04:31:54.860] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 04:31:54.990] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 04:31:54.991] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 04:31:54.991] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 04:31:55.055] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 04:31:55.256] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 04:31:55.256] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 04:31:55.320] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 04:31:55.330] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 04:31:59.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:52709] logged in with entity id 80153 at (-86.28169644219362, 7.06753493770271, -247.73764280924786)
-[15Dec2024 04:31:59.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
-[15Dec2024 04:31:59.271] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
-[15Dec2024 04:32:09.172] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 04:32:09.251] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 04:32:09.345] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 04:32:09.387] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 04:32:09.450] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 04:32:09.491] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 04:32:09.549] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 04:32:09.591] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 04:32:09.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 04:32:09.688] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 04:32:09.754] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 04:32:09.754] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 04:32:10.075] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 04:32:10.075] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 04:32:10.077] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 04:32:10.080] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 04:32:15.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:58657] logged in with entity id 80504 at (-114.51027604685444, 4.0, -257.870243358195)
-[15Dec2024 04:32:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
-[15Dec2024 04:32:15.166] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
-[15Dec2024 04:35:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Roosting]
-[15Dec2024 04:36:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was slain by Deepling Angler
-[15Dec2024 04:39:01.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
-[15Dec2024 04:39:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
-[15Dec2024 04:39:22.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[15Dec2024 04:40:23.121] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[15Dec2024 04:40:23.224] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[15Dec2024 04:40:23.241] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[15Dec2024 04:40:23.326] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[15Dec2024 04:40:23.328] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[15Dec2024 04:40:23.405] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[15Dec2024 04:40:23.438] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[15Dec2024 04:40:23.484] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[15Dec2024 04:40:23.484] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[15Dec2024 04:40:23.562] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[15Dec2024 04:40:23.640] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[15Dec2024 04:40:23.683] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[15Dec2024 04:40:23.806] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[15Dec2024 04:40:23.806] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[15Dec2024 04:40:23.839] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[15Dec2024 04:40:23.883] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[15Dec2024 04:40:29.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:32819] logged in with entity id 94385 at (-131.69999998807907, -31.75800976213267, -220.45869858127853)
-[15Dec2024 04:40:29.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
-[15Dec2024 04:40:29.109] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
-[15Dec2024 04:41:06.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
-[15Dec2024 04:41:06.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
-[15Dec2024 04:41:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
-[15Dec2024 04:44:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
-[15Dec2024 04:47:40.539] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Planeta-triton/servidor_minecraft/config/origins-common.toml is not correct. Correcting
-[15Dec2024 04:47:43.383] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Planeta-triton/servidor_minecraft/config/origins-common.toml is not correct. Correcting
+[22Dec2024 04:03:32.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[22Dec2024 04:03:32.874] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3118 advancements
+[22Dec2024 04:03:32.978] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[22Dec2024 04:03:32.985] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Dec2024 04:03:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Dec2024 04:03:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Dec2024 04:03:34.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Dec2024 04:03:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Dec2024 04:03:35.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Dec2024 04:03:35.117] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Dec2024 04:03:35.192] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Dec2024 04:03:35.193] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Dec2024 04:03:35.193] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Dec2024 04:03:35.194] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Dec2024 04:03:35.212] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Dec2024 04:03:35.213] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Dec2024 04:03:35.214] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Dec2024 04:03:35.597] [Server thread/INFO] [Framework/]: Loading server configs...
+[22Dec2024 04:03:35.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Dec2024 04:03:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Dec2024 04:03:49.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.752] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.763] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.781] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.796] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.809] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:49.815] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:50.331] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:50.867] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:51.299] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 04:03:51.799] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[22Dec2024 04:03:52.116] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6817 ms
+[22Dec2024 04:03:52.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.909s)! For help, type "help"
+[22Dec2024 04:03:52.158] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Dec2024 04:03:52.185] [Server thread/INFO] [com.becks.uniquedungeons.UniqueDungeons/]: HELLO from server starting
+[22Dec2024 04:03:52.188] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22Dec2024 04:03:52.188] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Dec2024 04:03:52.191] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[22Dec2024 04:04:02.708] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 04:04:02.766] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 04:04:02.841] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 04:04:02.854] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 04:04:02.931] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 04:04:03.017] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 04:04:03.018] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 04:04:03.097] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 04:04:03.107] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 04:04:03.193] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 04:04:03.274] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 04:04:03.274] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 04:04:03.459] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 04:04:03.459] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 04:04:03.500] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 04:04:03.501] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 04:04:07.459] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'eeeabsmobs:eeeabsmobs/root' in progress file ./world/advancements/7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97.json - it doesn't exist anymore?
+[22Dec2024 04:04:07.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:59521] logged in with entity id 33 at (-84.29313317903033, 15.595199180094763, -249.08487179777998)
+[22Dec2024 04:04:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[22Dec2024 04:04:07.658] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[22Dec2024 04:04:10.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
+[22Dec2024 04:05:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was impaled by Drowned
+[22Dec2024 04:10:47.087] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Dec2024 04:10:47.127] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Dec2024 04:10:47.204] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Dec2024 04:10:47.205] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Dec2024 04:10:47.285] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Dec2024 04:10:47.366] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Dec2024 04:10:47.409] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Dec2024 04:10:47.450] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Dec2024 04:10:47.450] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Dec2024 04:10:47.530] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Dec2024 04:10:47.611] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Dec2024 04:10:47.654] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Dec2024 04:10:47.841] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Dec2024 04:10:47.858] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Dec2024 04:10:47.858] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Dec2024 04:10:47.859] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Dec2024 04:10:53.141] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'eeeabsmobs:eeeabsmobs/root' in progress file ./world/advancements/b80e6cee-5c06-38e6-b1ea-bf9190f85405.json - it doesn't exist anymore?
+[22Dec2024 04:10:53.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:51561] logged in with entity id 7199 at (-101.26965844748665, 8.94034164374021, -246.64607101223623)
+[22Dec2024 04:10:53.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[22Dec2024 04:10:53.295] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[22Dec2024 04:11:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]

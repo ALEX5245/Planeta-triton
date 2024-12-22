@@ -14,7 +14,7 @@
 		"origins:air_from_potions" = true
 		"origins:swim_speed" = true
 		"origins:water_vision" = true
-		"o"
+		"minecraft:night_vision" = true
 		"origins:like_water" = true
 		"origins:aqua_affinity" = true
 		"origins:water_breathing" = true
