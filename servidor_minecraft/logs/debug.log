@@ -8572,3 +8572,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [22Dec2024 04:32:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Removed every effect from A07K]
 [22Dec2024 04:32:47.351] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [22Dec2024 04:32:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[22Dec2024 04:33:54.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:33:54.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:34:29.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[22Dec2024 04:36:34.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Flint and Steel] to IsaacR]
+[22Dec2024 04:38:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Minecraft Comes Alive]
+[22Dec2024 04:38:54.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:38:54.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:39:05.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Darkhan'/18964, l='ServerLevel[world]', x=201.48, y=64.88, z=-260.55] died, message: 'Darkhan went up in flames'
+[22Dec2024 04:39:05.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Darkhan'/18964, l='ServerLevel[world]', x=201.48, y=64.88, z=-260.55] died: Darkhan went up in flames
+[22Dec2024 04:40:08.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Cobblestone Upright Headstone] to IsaacR]
+[22Dec2024 04:41:06.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elya'/18965, l='ServerLevel[world]', x=212.55, y=64.88, z=-257.31] died, message: 'Elya burned to death'
+[22Dec2024 04:41:06.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elya'/18965, l='ServerLevel[world]', x=212.55, y=64.88, z=-257.31] died: Elya burned to death
+[22Dec2024 04:41:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[22Dec2024 04:41:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Minecraft Comes Alive]
+[22Dec2024 04:42:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Removed loaded villagers.]
+[22Dec2024 04:42:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Restored cleared villagers.]
+[22Dec2024 04:43:54.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:43:54.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:45:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 04:47:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[22Dec2024 04:47:34.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 04:48:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[22Dec2024 04:48:24.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Roosting]
+[22Dec2024 04:48:54.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:48:54.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:53:06.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[22Dec2024 04:53:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Friendship Found]
+[22Dec2024 04:53:54.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:53:54.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 04:58:54.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 04:58:54.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:01:09.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Stanka (Following) to IsaacR]
+[22Dec2024 05:01:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[22Dec2024 05:01:58.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[22Dec2024 05:03:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[22Dec2024 05:03:54.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:03:54.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:04:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie]
+[22Dec2024 05:05:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Gulnur to A07K]
+[22Dec2024 05:05:48.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stoitcho'/24587, l='ServerLevel[world]', x=770.62, y=63.00, z=-296.25] died, message: 'Stoitcho (Staying) was slain by Marvin'
+[22Dec2024 05:08:14.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Voluntary Exile]
+[22Dec2024 05:08:54.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 05:08:54.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 05:09:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement ['Til Death Do Us Part]
+[22Dec2024 05:10:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[22Dec2024 05:12:03.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[22Dec2024 05:13:00.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yuri'/24591, l='ServerLevel[world]', x=827.70, y=62.51, z=-206.30] died, message: 'Yuri was slain by IsaacR'
