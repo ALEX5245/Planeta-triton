@@ -10488,3 +10488,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 07:13:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
 [28Dec2024 07:13:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: The difficulty has been set to Hard]
 [28Dec2024 07:13:52.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[28Dec2024 07:14:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[28Dec2024 07:16:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> [name:"Casa", x:-90, y:13, z:-251, dim:minecraft:overworld]
+[28Dec2024 07:16:06.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> [name:"Aldea cool", x:746, y:69, z:-229, dim:minecraft:overworld]
+[28Dec2024 07:16:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> [name:"Aldea primordial/dragon", x:164, y:67, z:2232, dim:minecraft:overworld]
+[28Dec2024 07:16:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> [name:"Casita1", x:443, y:1, z:-309, dim:minecraft:overworld]
+[28Dec2024 07:17:30.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 07:17:30.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 07:20:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 10 [Bucket] to A07K]
+[28Dec2024 07:22:30.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 07:22:30.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 07:22:38.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[28Dec2024 07:23:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[28Dec2024 07:23:58.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Genoveva'/62912, l='ServerLevel[world]', x=740.93, y=70.56, z=-224.63] died, message: 'Genoveva suffocated in a wall'
+[28Dec2024 07:23:58.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Genoveva'/62912, l='ServerLevel[world]', x=740.93, y=70.56, z=-224.63] died: Genoveva suffocated in a wall
