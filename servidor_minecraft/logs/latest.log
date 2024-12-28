@@ -319,3 +319,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 03:27:03.464] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [28Dec2024 03:31:39.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
 [28Dec2024 03:31:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[28Dec2024 03:32:12.384] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 03:32:12.450] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 03:32:12.526] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 03:32:12.526] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 03:32:12.607] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 03:32:12.687] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 03:32:12.687] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 03:32:12.772] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 03:32:12.853] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 03:32:12.854] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 03:32:12.934] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 03:32:12.934] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 03:32:13.170] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 03:32:13.170] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 03:32:13.171] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 03:32:13.171] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 03:32:17.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:39537] logged in with entity id 7240 at (599.5710234538366, 62.38443958655446, -184.47701356452617)
+[28Dec2024 03:32:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[28Dec2024 03:32:17.283] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[28Dec2024 03:36:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Block of Diamond] to IsaacR]
+[28Dec2024 03:37:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Diamond Sword] to IsaacR]
