@@ -448,3 +448,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 05:49:58.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
 [28Dec2024 05:49:58.395] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
 [28Dec2024 05:50:08.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[28Dec2024 05:59:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 100 [Scaffolding] to IsaacR]
+[28Dec2024 05:59:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
