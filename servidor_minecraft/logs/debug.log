@@ -8589,3 +8589,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 05:29:02.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
 [28Dec2024 05:32:30.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 05:32:30.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 05:37:30.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 05:37:30.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 05:40:55.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[28Dec2024 05:42:30.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 05:42:30.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
