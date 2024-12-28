@@ -7769,3 +7769,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 03:46:24.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Carrot] to IsaacR]
 [28Dec2024 03:47:30.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 03:47:30.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:52:30.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:52:30.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:57:30.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:57:30.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:59:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Axe] to IsaacR]
+[28Dec2024 03:59:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Helmet] to IsaacR]
+[28Dec2024 03:59:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Chestplate] to IsaacR]
+[28Dec2024 03:59:51.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Leggings] to IsaacR]
+[28Dec2024 04:00:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 8 [Gold Ingot] to IsaacR]
+[28Dec2024 04:01:08.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement ['Til Death Do Us Part]
+[28Dec2024 04:01:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Next Generation]
