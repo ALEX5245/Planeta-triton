@@ -772,6 +772,7 @@
       "minecraft:spider": "2024-12-15 06:09:56 +0000",
       "minecraft:creeper": "2024-12-15 03:21:27 +0000",
       "minecraft:slime": "2024-12-21 07:50:59 +0000",
+      "minecraft:phantom": "2024-12-28 07:51:05 +0000",
       "minecraft:witch": "2024-12-21 08:35:28 +0000",
       "minecraft:enderman": "2024-12-21 08:33:54 +0000",
       "minecraft:zombie": "2024-12-14 06:35:50 +0000",
@@ -4731,6 +4732,18 @@
   "create:super_glue": {
     "criteria": {
       "0": "2024-12-28 07:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 07:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-28 07:46:03 +0000"
     },
     "done": true
   },
