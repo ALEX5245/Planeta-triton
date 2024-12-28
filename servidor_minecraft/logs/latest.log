@@ -484,3 +484,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 07:01:26.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
 [28Dec2024 07:01:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [28Dec2024 07:02:55.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[28Dec2024 07:06:29.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Iron Axe] to IsaacR]
+[28Dec2024 07:08:41.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[28Dec2024 07:08:41.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[28Dec2024 07:09:03.266] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 07:09:03.350] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 07:09:03.431] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 07:09:03.431] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 07:09:03.511] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 07:09:03.591] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 07:09:03.592] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 07:09:03.675] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 07:09:03.675] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 07:09:03.760] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 07:09:03.836] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 07:09:03.838] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 07:09:04.011] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 07:09:04.012] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 07:09:04.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 07:09:04.031] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 07:09:08.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:53003] logged in with entity id 56125 at (533.8677732859461, 74.0, -130.773666593246)
+[28Dec2024 07:09:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[28Dec2024 07:09:08.034] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[28Dec2024 07:09:18.088] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 07:09:18.159] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 07:09:18.199] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 07:09:18.259] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 07:09:18.260] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 07:09:18.344] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 07:09:18.352] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 07:09:18.425] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 07:09:18.531] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 07:09:18.531] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 07:09:18.622] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 07:09:18.646] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 07:09:18.897] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 07:09:18.901] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 07:09:18.904] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 07:09:18.915] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 07:09:24.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:38635] logged in with entity id 56352 at (-107.07102975679017, 7.06753493770271, -250.9591926600396)
+[28Dec2024 07:09:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[28Dec2024 07:09:24.543] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[28Dec2024 07:09:38.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Timed out
+[28Dec2024 07:09:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[28Dec2024 07:12:48.601] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 07:12:48.658] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 07:12:48.745] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 07:12:48.746] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 07:12:48.845] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 07:12:48.930] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 07:12:48.930] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 07:12:49.006] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 07:12:49.006] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 07:12:49.096] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 07:12:49.096] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 07:12:49.180] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 07:12:49.386] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 07:12:49.386] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 07:12:49.386] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 07:12:49.386] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 07:12:53.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:57981] logged in with entity id 58829 at (533.8677732859461, 74.0, -130.773666593246)
+[28Dec2024 07:12:53.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[28Dec2024 07:12:53.338] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[28Dec2024 07:13:48.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[28Dec2024 07:13:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: The difficulty has been set to Hard]
+[28Dec2024 07:13:52.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
