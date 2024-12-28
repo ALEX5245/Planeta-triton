@@ -385,3 +385,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 04:22:24.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:40679] logged in with entity id 23976 at (-104.22014675647115, 8.69068313328309, -239.49227235899048)
 [28Dec2024 04:22:24.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
 [28Dec2024 04:22:24.397] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[28Dec2024 04:26:12.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[28Dec2024 04:26:12.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[28Dec2024 04:26:45.795] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 04:26:45.840] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 04:26:45.925] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 04:26:45.925] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 04:26:46.008] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 04:26:46.080] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 04:26:46.088] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 04:26:46.163] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 04:26:46.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 04:26:46.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 04:26:46.320] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 04:26:46.320] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 04:26:46.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 04:26:46.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 04:26:46.588] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 04:26:46.588] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 04:26:50.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:42143] logged in with entity id 26357 at (-99.27877419020224, 9.200000047683716, -244.61411545662344)
+[28Dec2024 04:26:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[28Dec2024 04:26:50.586] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[28Dec2024 04:30:25.606] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[28Dec2024 04:30:25.607] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[28Dec2024 04:31:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
