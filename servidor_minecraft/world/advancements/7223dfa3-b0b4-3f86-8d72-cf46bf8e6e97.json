@@ -4272,5 +4272,23 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-22 06:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-28 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 03:12:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
