@@ -8578,3 +8578,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 05:10:23.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [28Dec2024 05:12:30.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 05:12:30.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 05:17:30.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 05:17:30.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 05:22:30.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 05:22:30.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
