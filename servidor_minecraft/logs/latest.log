@@ -409,3 +409,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 04:30:25.606] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [28Dec2024 04:30:25.607] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [28Dec2024 04:31:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[28Dec2024 04:33:17.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30643, l='ServerLevel[world]', x=18.50, y=20.00, z=-202.50]

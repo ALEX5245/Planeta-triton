@@ -4440,5 +4440,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-28 04:41:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
