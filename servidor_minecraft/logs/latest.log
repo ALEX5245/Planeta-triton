@@ -410,3 +410,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 04:30:25.607] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [28Dec2024 04:31:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [28Dec2024 04:33:17.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30643, l='ServerLevel[world]', x=18.50, y=20.00, z=-202.50]
+[28Dec2024 04:50:50.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[28Dec2024 04:51:10.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 300 [Bread] to IsaacR]
+[28Dec2024 04:51:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Iron Axe] to IsaacR]
+[28Dec2024 04:51:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Shield] to IsaacR]
+[28Dec2024 04:51:45.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Iron Shovel] to IsaacR]
