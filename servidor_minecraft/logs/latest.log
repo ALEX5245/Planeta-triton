@@ -340,3 +340,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 03:32:17.283] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
 [28Dec2024 03:36:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Block of Diamond] to IsaacR]
 [28Dec2024 03:37:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Diamond Sword] to IsaacR]
+[28Dec2024 03:46:24.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Golden Carrot] to IsaacR]
