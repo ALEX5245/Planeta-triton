@@ -348,3 +348,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 04:00:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 8 [Gold Ingot] to IsaacR]
 [28Dec2024 04:01:08.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement ['Til Death Do Us Part]
 [28Dec2024 04:01:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Next Generation]
+[28Dec2024 04:06:32.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Chores]
+[28Dec2024 04:08:07.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 13000]
+[28Dec2024 04:08:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[28Dec2024 04:08:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie]
+[28Dec2024 04:08:46.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie]
+[28Dec2024 04:08:47.706] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Radoslav}[style={}] has been infected
+[28Dec2024 04:09:30.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie]
+[28Dec2024 04:10:25.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie Villager]
+[28Dec2024 04:10:42.745] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Radoslav}[style={}] has been infected
+[28Dec2024 04:10:42.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radoslav'/11102, l='ServerLevel[world]', x=625.72, y=56.00, z=72.44] died, message: 'Radoslav was slain by Zombie'
+[28Dec2024 04:10:42.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Radoslav'/11102, l='ServerLevel[world]', x=625.72, y=56.00, z=72.44] died: Radoslav was slain by Zombie
+[28Dec2024 04:10:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Zombie Villager]
+[28Dec2024 04:12:18.944] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Janka}[style={}] has been infected
+[28Dec2024 04:12:24.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Janka'/11091, l='ServerLevel[world]', x=618.43, y=71.00, z=102.37] died, message: 'Janka was slain by Zombie Villager'
+[28Dec2024 04:12:24.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Janka'/11091, l='ServerLevel[world]', x=618.43, y=71.00, z=102.37] died: Janka was slain by Zombie Villager
+[28Dec2024 04:13:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[28Dec2024 04:20:21.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Timed out
+[28Dec2024 04:20:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[28Dec2024 04:22:19.634] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[28Dec2024 04:22:19.714] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[28Dec2024 04:22:19.789] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[28Dec2024 04:22:19.789] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[28Dec2024 04:22:19.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[28Dec2024 04:22:19.873] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[28Dec2024 04:22:19.949] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[28Dec2024 04:22:20.035] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[28Dec2024 04:22:20.035] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[28Dec2024 04:22:20.119] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[28Dec2024 04:22:20.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[28Dec2024 04:22:20.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[28Dec2024 04:22:20.393] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[28Dec2024 04:22:20.393] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[28Dec2024 04:22:20.393] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[28Dec2024 04:22:20.394] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[28Dec2024 04:22:24.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:40679] logged in with entity id 23976 at (-104.22014675647115, 8.69068313328309, -239.49227235899048)
+[28Dec2024 04:22:24.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[28Dec2024 04:22:24.397] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
