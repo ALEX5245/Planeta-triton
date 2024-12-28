@@ -10502,3 +10502,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [28Dec2024 07:23:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [28Dec2024 07:23:58.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Genoveva'/62912, l='ServerLevel[world]', x=740.93, y=70.56, z=-224.63] died, message: 'Genoveva suffocated in a wall'
 [28Dec2024 07:23:58.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Genoveva'/62912, l='ServerLevel[world]', x=740.93, y=70.56, z=-224.63] died: Genoveva suffocated in a wall
+[28Dec2024 07:24:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Mine? Mine? Mine?]
+[28Dec2024 07:26:47.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[28Dec2024 07:27:30.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 07:27:30.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 07:32:30.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 07:32:30.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 07:33:34.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vesselin'/62927, l='ServerLevel[world]', x=758.28, y=65.94, z=-206.64] died, message: 'Vesselin was blown up by Creeper'
+[28Dec2024 07:33:34.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vesselin'/62927, l='ServerLevel[world]', x=758.28, y=65.94, z=-206.64] died: Vesselin was blown up by Creeper
+[28Dec2024 07:34:35.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
