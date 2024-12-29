@@ -306,3 +306,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [29Dec2024 05:25:20.008] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Dec2024 05:25:20.008] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [29Dec2024 05:25:20.009] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[29Dec2024 05:31:52.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[29Dec2024 05:32:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Applied effect Night Vision to A07K]
