@@ -452,3 +452,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 03:38:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
 [31Dec2024 03:48:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
 [31Dec2024 03:52:04.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/75866, l='ServerLevel[world]', x=529.50, y=51.00, z=-308.50]
+[31Dec2024 04:00:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[31Dec2024 04:06:43.008] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 04:06:43.085] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 04:06:43.163] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 04:06:43.163] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 04:06:43.240] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 04:06:43.316] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 04:06:43.317] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 04:06:43.393] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 04:06:43.471] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 04:06:43.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 04:06:43.549] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 04:06:43.610] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 04:06:43.713] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 04:06:43.713] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 04:06:43.767] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 04:06:43.785] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 04:06:48.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:43609] logged in with entity id 77877 at (760.0751409860502, 64.0, -204.4218659806031)
+[31Dec2024 04:06:48.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[31Dec2024 04:06:49.003] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[31Dec2024 04:10:27.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Removed every effect from A07K]
+[31Dec2024 04:11:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[31Dec2024 04:11:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[31Dec2024 04:11:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[31Dec2024 04:13:07.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 04:18:58.241] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[31Dec2024 04:19:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 04:19:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 04:20:16.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[31Dec2024 04:25:46.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 1 [Shield] to A07K]
+[31Dec2024 04:26:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to 2 targets]
+[31Dec2024 04:26:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 1 [Shield] to A07K]
+[31Dec2024 04:27:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 1 [Shield] to A07K]
+[31Dec2024 04:28:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 1 [Shield] to A07K]
+[31Dec2024 04:29:10.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[31Dec2024 04:29:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[31Dec2024 04:36:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 14 entities]

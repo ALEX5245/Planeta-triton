@@ -4425,5 +4425,17 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-31 04:27:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-31 04:20:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
