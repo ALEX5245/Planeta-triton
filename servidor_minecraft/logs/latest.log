@@ -570,3 +570,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 06:28:20.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
 [31Dec2024 06:28:20.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
 [31Dec2024 06:30:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:31:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:31:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Vindicator
+[31Dec2024 06:31:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Vindicator
+[31Dec2024 06:32:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:35:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 10 entities]
+[31Dec2024 06:35:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 3 entities]
+[31Dec2024 06:35:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 3 entities]
+[31Dec2024 06:36:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:36:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:36:37.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:36:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR suffocated in a wall
+[31Dec2024 06:36:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:37:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:47:44.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/135276, l='ServerLevel[world]', x=4504.79, y=62.57, z=748.86] died: Witch was slain by IsaacR
+[31Dec2024 06:50:57.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 5.811540109503767,-3.3698522843205936,7.861808326194705

@@ -10211,3 +10211,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 06:28:54.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 06:28:54.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 06:30:14.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:31:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:31:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Vindicator
+[31Dec2024 06:31:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Vindicator
+[31Dec2024 06:32:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:33:54.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:33:54.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:35:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 10 entities]
+[31Dec2024 06:35:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 3 entities]
+[31Dec2024 06:35:59.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 3 entities]
+[31Dec2024 06:36:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:36:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:36:37.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:36:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR suffocated in a wall
+[31Dec2024 06:36:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 06:37:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 06:38:54.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:38:54.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:43:54.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:43:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:45:02.312] [Worker-Main-79/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=4358, y=71, z=980}
+[31Dec2024 06:45:02.312] [Worker-Main-79/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[31Dec2024 06:45:02.312] [Worker-Main-79/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[31Dec2024 06:45:02.312] [Worker-Main-79/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOOJ1xeJ79fWOPXnSPbJMP
+[31Dec2024 06:47:44.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/135276, l='ServerLevel[world]', x=4504.79, y=62.57, z=748.86] died: Witch was slain by IsaacR
+[31Dec2024 06:48:54.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:48:54.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:50:57.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 5.811540109503767,-3.3698522843205936,7.861808326194705

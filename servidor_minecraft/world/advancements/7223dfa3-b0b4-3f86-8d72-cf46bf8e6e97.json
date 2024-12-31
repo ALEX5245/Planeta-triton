@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-31 06:39:12 +0000",
       "minecraft:mushroom_fields": "2024-12-14 08:14:56 +0000",
       "minecraft:taiga": "2024-12-31 02:29:19 +0000",
       "minecraft:deep_ocean": "2024-12-14 06:09:16 +0000",
@@ -4847,6 +4848,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-31 06:44:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
@@ -4952,6 +4959,12 @@
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-31 06:47:44 +0000"
     },
     "done": true
   },
@@ -5129,6 +5142,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-31 06:44:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-31 06:44:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
@@ -5153,9 +5178,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-12-31 06:44:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 06:44:12 +0000"
     },
     "done": true
   },
