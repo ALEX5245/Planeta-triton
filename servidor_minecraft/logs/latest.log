@@ -490,3 +490,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 04:29:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
 [31Dec2024 04:36:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 14 entities]
 [31Dec2024 04:49:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 19 entities]
+[31Dec2024 05:05:44.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[31Dec2024 05:07:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 18 entities]
+[31Dec2024 05:07:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 15 entities]
