@@ -497,3 +497,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 05:10:35.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 21 entities]
 [31Dec2024 05:25:03.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
 [31Dec2024 05:26:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[31Dec2024 05:30:41.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-61.48740001622906,0.0
+[31Dec2024 05:30:41.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-65.63302444521656,0.0
+[31Dec2024 05:30:41.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-69.75802444521656,0.0
+[31Dec2024 05:30:42.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-73.19552444521656,0.0
+[31Dec2024 05:30:42.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-75.94552444521656,0.0
+[31Dec2024 05:30:42.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-79.38302444521656,0.0
+[31Dec2024 05:30:42.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-82.82052444521656,0.0
+[31Dec2024 05:30:43.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-86.21143036190739,0.0
+[31Dec2024 05:30:43.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-89.82159351412525,0.0
+[31Dec2024 05:30:43.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-92.90748613182774,0.0
+[31Dec2024 05:30:43.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-94.6728705376791,0.0
+[31Dec2024 05:30:44.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 0.0,-96.55034052435627,0.0
+[31Dec2024 05:40:19.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! -4.620988740783616,3.3737880335330317,8.558744892734069
+[31Dec2024 05:43:23.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 7.6619953242911265,0.0,7.078481854178335
+[31Dec2024 05:43:52.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 3.2874257255885198,6.899453410570047,7.235368404657493
+[31Dec2024 05:45:01.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! -7.135534115113785,2.0362560809011114,7.919332383325127
+[31Dec2024 05:45:07.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! -0.9349388564291417,0.966240038394929,10.786855713304703
+[31Dec2024 05:45:17.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! -9.52301060806954,1.0135779630766564,-3.3210783366398573
+[31Dec2024 05:45:59.078] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 05:45:59.155] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 05:45:59.232] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 05:45:59.232] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 05:45:59.315] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 05:45:59.391] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 05:45:59.392] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 05:45:59.467] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 05:45:59.544] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 05:45:59.544] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 05:45:59.620] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 05:45:59.620] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 05:45:59.786] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 05:45:59.786] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 05:45:59.842] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 05:45:59.843] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 05:46:05.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:38763] logged in with entity id 100485 at (625.6944625077256, 50.0, 77.72654629918549)
+[31Dec2024 05:46:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[31Dec2024 05:46:05.594] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[31Dec2024 05:47:24.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 05:47:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 14 entities]
+[31Dec2024 05:47:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 24 entities]
+[31Dec2024 05:47:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[31Dec2024 05:47:58.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported A07K to IsaacR]
+[31Dec2024 05:48:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 32 entities]
+[31Dec2024 05:49:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 17 entities]
