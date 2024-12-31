@@ -10166,3 +10166,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 05:48:54.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 05:48:54.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 05:49:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 17 entities]
+[31Dec2024 05:50:39.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 15 entities]
+[31Dec2024 05:50:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 30 entities]
+[31Dec2024 05:51:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[31Dec2024 05:52:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[31Dec2024 05:53:54.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:53:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:55:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 05:56:59.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 05:58:54.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 05:58:54.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 05:58:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Rotten to the Core]
+[31Dec2024 06:00:22.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/105679, l='ServerLevel[world]', x=18.50, y=20.00, z=-210.50]
