@@ -489,3 +489,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 04:29:10.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
 [31Dec2024 04:29:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
 [31Dec2024 04:36:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 14 entities]
+[31Dec2024 04:49:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Killed 19 entities]

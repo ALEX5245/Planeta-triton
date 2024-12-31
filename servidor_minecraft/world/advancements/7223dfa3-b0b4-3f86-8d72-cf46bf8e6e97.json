@@ -4882,6 +4882,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-31 04:44:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
@@ -4921,6 +4927,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2024-12-31 03:34:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-31 04:45:33 +0000"
     },
     "done": true
   },
