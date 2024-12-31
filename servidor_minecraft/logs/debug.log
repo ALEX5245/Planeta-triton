@@ -9289,3 +9289,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 03:08:54.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 03:08:54.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 03:09:02.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[31Dec2024 03:10:34.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:37.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:10:41.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:11:02.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:11:07.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:11:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:11:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Cat]
+[31Dec2024 03:13:54.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 03:13:54.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 03:18:54.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 03:18:54.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
