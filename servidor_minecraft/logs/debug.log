@@ -10253,3 +10253,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 07:10:04.584] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
 [31Dec2024 07:10:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -303.500000, -39.547545, -143.500000]
 [31Dec2024 07:11:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 07:12:10.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Once Upon a Cave]
+[31Dec2024 07:13:54.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:13:54.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:17:57.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/158470, l='ServerLevel[world]', x=17.50, y=19.00, z=-196.50]
+[31Dec2024 07:18:54.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:18:54.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:23:39.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/163209, l='ServerLevel[world]', x=-820.79, y=62.59, z=-425.42] died: Witch was slain by IsaacR
+[31Dec2024 07:23:54.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:23:54.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:23:56.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/163146, l='ServerLevel[world]', x=-835.51, y=67.00, z=-418.84] died: Witch was slain by IsaacR
+[31Dec2024 07:28:54.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:28:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:29:09.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 07:29:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 07:30:15.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 07:31:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Free Willy]

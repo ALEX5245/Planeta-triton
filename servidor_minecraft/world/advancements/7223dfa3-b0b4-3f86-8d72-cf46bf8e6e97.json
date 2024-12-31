@@ -4818,6 +4818,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-31 07:12:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
@@ -4974,6 +4980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 07:25:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-31 05:58:58 +0000"
@@ -5007,6 +5019,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-31 07:05:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-31 07:12:07 +0000"
     },
     "done": true
   },
@@ -5091,6 +5109,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-31 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-31 07:12:10 +0000"
     },
     "done": true
   },
