@@ -331,3 +331,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 01:42:54.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:37015] logged in with entity id 24092 at (523.3958251950105, 84.0, -122.30000001192093)
 [31Dec2024 01:42:54.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
 [31Dec2024 01:42:54.164] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[31Dec2024 01:51:24.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31376, l='ServerLevel[world]', x=17.50, y=12.00, z=-217.50]
+[31Dec2024 01:53:42.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[31Dec2024 01:53:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[31Dec2024 01:54:14.447] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 01:54:14.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 01:54:14.626] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 01:54:14.627] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 01:54:14.627] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 01:54:14.728] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 01:54:14.809] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 01:54:14.810] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 01:54:14.890] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 01:54:14.933] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 01:54:14.974] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 01:54:14.975] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 01:54:15.170] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 01:54:15.183] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 01:54:15.225] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 01:54:15.226] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 01:54:19.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:44877] logged in with entity id 33202 at (525.7021972064823, 72.0, -138.32413894827846)
+[31Dec2024 01:54:19.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[31Dec2024 01:54:19.192] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[31Dec2024 01:57:52.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36138, l='ServerLevel[world]', x=16.50, y=20.00, z=-199.50]
