@@ -355,3 +355,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 01:54:19.192] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
 [31Dec2024 01:57:52.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36138, l='ServerLevel[world]', x=16.50, y=20.00, z=-199.50]
 [31Dec2024 02:06:50.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 02:09:01.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[31Dec2024 02:09:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[31Dec2024 02:09:12.813] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 02:09:12.889] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 02:09:12.966] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 02:09:12.967] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 02:09:13.041] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 02:09:13.116] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 02:09:13.116] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 02:09:13.192] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 02:09:13.267] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 02:09:13.267] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 02:09:13.342] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 02:09:13.407] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 02:09:13.519] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 02:09:13.519] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 02:09:13.571] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 02:09:13.582] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 02:09:18.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:47719] logged in with entity id 45494 at (-110.92517451272951, 31.526345095222318, -235.01656503405127)
+[31Dec2024 02:09:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[31Dec2024 02:09:19.003] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[31Dec2024 02:11:17.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[31Dec2024 02:15:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the time to 1000]
+[31Dec2024 02:15:15.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[31Dec2024 02:17:37.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[31Dec2024 02:17:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Staff of Life]
+[31Dec2024 02:17:56.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 02:21:35.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[31Dec2024 02:21:35.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[31Dec2024 02:22:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> 3968 0 592
+[31Dec2024 02:34:02.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[31Dec2024 02:34:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game

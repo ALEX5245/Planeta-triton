@@ -68,11 +68,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2024-12-14 08:14:56 +0000",
+      "minecraft:taiga": "2024-12-31 02:29:19 +0000",
       "minecraft:deep_ocean": "2024-12-14 06:09:16 +0000",
       "minecraft:sunflower_plains": "2024-12-14 06:33:17 +0000",
       "minecraft:cherry_grove": "2024-12-21 04:30:09 +0000",
       "minecraft:savanna_plateau": "2024-12-21 05:17:30 +0000",
       "minecraft:beach": "2024-12-15 04:25:51 +0000",
+      "minecraft:dark_forest": "2024-12-31 02:29:50 +0000",
       "minecraft:sparse_jungle": "2024-12-21 07:10:24 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 06:14:30 +0000",
       "minecraft:river": "2024-12-14 05:59:53 +0000",
@@ -84,6 +86,7 @@
       "minecraft:jungle": "2024-12-21 07:38:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 06:09:06 +0000",
       "minecraft:flower_forest": "2024-12-21 08:38:36 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-31 02:27:10 +0000",
       "minecraft:meadow": "2024-12-15 04:38:21 +0000",
       "minecraft:savanna": "2024-12-21 05:14:32 +0000",
       "minecraft:plains": "2024-12-14 05:59:28 +0000"
@@ -4744,6 +4747,30 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-28 07:46:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/staff_of_life": {
+    "criteria": {
+      "iron": "2024-12-31 02:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-31 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2024-12-31 02:25:29 +0000"
     },
     "done": true
   },
