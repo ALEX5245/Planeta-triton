@@ -600,3 +600,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 07:29:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [31Dec2024 07:30:15.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [31Dec2024 07:31:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Free Willy]
+[31Dec2024 07:32:27.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Captain'/167942, l='ServerLevel[world]', x=-518.72, y=22.77, z=-505.19] died: Captain was slain by Sea Serpent
+[31Dec2024 07:38:10.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[31Dec2024 07:38:10.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
