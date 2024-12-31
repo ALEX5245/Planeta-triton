@@ -775,6 +775,7 @@
       "minecraft:spider": "2024-12-15 06:09:56 +0000",
       "minecraft:creeper": "2024-12-15 03:21:27 +0000",
       "minecraft:slime": "2024-12-21 07:50:59 +0000",
+      "minecraft:evoker": "2024-12-31 06:26:09 +0000",
       "minecraft:phantom": "2024-12-28 07:51:05 +0000",
       "minecraft:witch": "2024-12-21 08:35:28 +0000",
       "minecraft:enderman": "2024-12-21 08:33:54 +0000",
@@ -4960,6 +4961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-31 05:58:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 03:22:42 +0000"
@@ -4975,6 +4982,12 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 06:26:51 +0000"
     },
     "done": true
   },
@@ -5002,6 +5015,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-31 06:16:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
@@ -5011,6 +5030,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-31 05:58:59 +0000"
     },
     "done": true
   },
@@ -5062,9 +5087,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-31 05:58:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_wall": {
     "criteria": {
       "has_small_dripstone_bricks": "2024-12-31 03:21:47 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2024-12-31 06:05:37 +0000"
     },
     "done": true
   },
@@ -5095,6 +5132,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 06:26:51 +0000"
     },
     "done": true
   },
