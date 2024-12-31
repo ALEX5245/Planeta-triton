@@ -603,3 +603,51 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 07:32:27.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Captain'/167942, l='ServerLevel[world]', x=-518.72, y=22.77, z=-505.19] died: Captain was slain by Sea Serpent
 [31Dec2024 07:38:10.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
 [31Dec2024 07:38:10.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[31Dec2024 07:57:48.716] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 07:57:48.776] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 07:57:48.817] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 07:57:48.854] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 07:57:48.875] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 07:57:48.933] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 07:57:49.011] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 07:57:49.013] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 07:57:49.091] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 07:57:49.167] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 07:57:49.175] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 07:57:49.245] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 07:57:49.510] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 07:57:49.525] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 07:57:49.525] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 07:57:49.529] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 07:57:54.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:52327] logged in with entity id 174389 at (4003.565411120046, 116.0625, 629.3195786469201)
+[31Dec2024 07:57:54.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[31Dec2024 07:57:54.882] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[31Dec2024 08:01:39.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 64 [Torch] to A07K]
+[31Dec2024 08:02:55.583] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Dec2024 08:02:55.642] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Dec2024 08:02:55.728] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Dec2024 08:02:55.728] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Dec2024 08:02:55.807] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Dec2024 08:02:55.887] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Dec2024 08:02:55.929] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Dec2024 08:02:55.970] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Dec2024 08:02:55.970] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Dec2024 08:02:56.050] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Dec2024 08:02:56.133] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Dec2024 08:02:56.133] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Dec2024 08:02:56.323] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Dec2024 08:02:56.324] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Dec2024 08:02:56.334] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Dec2024 08:02:56.377] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Dec2024 08:03:00.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:50263] logged in with entity id 176113 at (-109.74088601583594, 43.91989760173185, -863.9667159103454)
+[31Dec2024 08:03:00.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[31Dec2024 08:03:00.381] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[31Dec2024 08:03:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 08:03:34.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Fallen Sorcerer]
+[31Dec2024 08:07:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[31Dec2024 08:09:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 08:09:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[31Dec2024 08:11:03.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[31Dec2024 08:11:03.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[31Dec2024 08:11:39.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arnaud'/183239, l='ServerLevel[world]', x=-1206.12, y=71.00, z=-295.58] died, message: 'Arnaud was turned into KFC by Fire Dragon'
+[31Dec2024 08:11:39.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arnaud'/183239, l='ServerLevel[world]', x=-1206.12, y=71.00, z=-295.58] died: Arnaud was incinerated by Fire Dragon
