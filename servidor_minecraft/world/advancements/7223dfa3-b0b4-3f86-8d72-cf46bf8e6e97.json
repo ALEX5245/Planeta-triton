@@ -4906,6 +4906,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2024-12-31 03:34:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-31 03:22:42 +0000"
@@ -4941,6 +4947,12 @@
       "has_stone_types_dripstone": "2024-12-31 03:21:44 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-31 03:36:10 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
