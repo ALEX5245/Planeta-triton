@@ -585,3 +585,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 06:37:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
 [31Dec2024 06:47:44.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/135276, l='ServerLevel[world]', x=4504.79, y=62.57, z=748.86] died: Witch was slain by IsaacR
 [31Dec2024 06:50:57.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 5.811540109503767,-3.3698522843205936,7.861808326194705
+[31Dec2024 07:08:17.040] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[31Dec2024 07:08:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -111.500000, 17.520927, -207.500000]
+[31Dec2024 07:09:10.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 07:09:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -111.500000, -36.550020, -207.500000]
+[31Dec2024 07:10:04.584] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[31Dec2024 07:10:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -303.500000, -39.547545, -143.500000]
+[31Dec2024 07:11:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]

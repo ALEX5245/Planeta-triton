@@ -10242,3 +10242,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [31Dec2024 06:53:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Dec2024 06:58:54.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 06:58:54.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:03:54.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:03:54.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:08:17.040] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[31Dec2024 07:08:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -111.500000, 17.520927, -207.500000]
+[31Dec2024 07:08:54.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 07:08:54.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 07:09:10.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[31Dec2024 07:09:25.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -111.500000, -36.550020, -207.500000]
+[31Dec2024 07:10:04.584] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[31Dec2024 07:10:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to -303.500000, -39.547545, -143.500000]
+[31Dec2024 07:11:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
