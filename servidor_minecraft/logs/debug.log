@@ -8975,3 +8975,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [08Jan2025 06:11:23.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 06:12:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
 [08Jan2025 06:14:57.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[08Jan2025 06:16:23.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 06:16:23.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 06:16:47.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[08Jan2025 06:18:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[08Jan2025 06:18:42.975] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08Jan2025 06:18:42.975] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[08Jan2025 06:18:42.976] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[08Jan2025 06:18:42.976] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[08Jan2025 06:19:02.440] [Worker-Main-14/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-15, -151], pos: MutableBlockPos{x=-237, y=-48, z=-2416}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[08Jan2025 06:19:04.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[08Jan2025 06:19:36.697] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, -162], pos: MutableBlockPos{x=-128, y=-8, z=-2577}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[08Jan2025 06:20:23.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=-2127} BlockPos{x=-95, y=77, z=-2494}
+[08Jan2025 06:21:25.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 06:21:25.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 06:25:06.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [The Desert Swimmers]
+[08Jan2025 06:26:20.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[08Jan2025 06:26:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[08Jan2025 06:26:25.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 06:26:25.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 06:29:29.064] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 24 ms
+[08Jan2025 06:29:29.072] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 6 ms
+[08Jan2025 06:29:29.076] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.079] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.082] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.087] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 4 ms
+[08Jan2025 06:29:29.090] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 3 ms
+[08Jan2025 06:29:29.092] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 1 ms
+[08Jan2025 06:29:29.093] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.093] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.098] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 4 ms
+[08Jan2025 06:29:29.101] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.103] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 1 ms
+[08Jan2025 06:29:29.103] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.104] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.106] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.108] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.109] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.110] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.110] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.113] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 2 ms
+[08Jan2025 06:29:29.113] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.114] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.114] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:29:29.115] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 0 ms
+[08Jan2025 06:31:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [No Step on Snake]
+[08Jan2025 06:31:25.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 06:31:25.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
