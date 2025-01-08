@@ -304,3 +304,182 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [08Jan2025 05:44:14.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:58615] logged in with entity id 32 at (-3281.2625032530946, 47.841329669057814, -30.164020878990772)
 [08Jan2025 05:44:14.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
 [08Jan2025 05:44:14.709] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[08Jan2025 05:46:15.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[08Jan2025 05:46:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[08Jan2025 05:47:14.285] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jan2025 05:47:14.339] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jan2025 05:47:14.420] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jan2025 05:47:14.420] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jan2025 05:47:14.490] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jan2025 05:47:14.569] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jan2025 05:47:14.570] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jan2025 05:47:14.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jan2025 05:47:14.729] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jan2025 05:47:14.730] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jan2025 05:47:14.804] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jan2025 05:47:14.865] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jan2025 05:47:14.999] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jan2025 05:47:14.999] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jan2025 05:47:15.034] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jan2025 05:47:15.077] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jan2025 05:47:19.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:52065] logged in with entity id 2175 at (58.5, 64.0, -283.5)
+[08Jan2025 05:47:19.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[08Jan2025 05:47:19.109] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[08Jan2025 05:47:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[08Jan2025 05:49:23.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[08Jan2025 05:50:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[08Jan2025 05:50:32.890] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jan2025 05:50:32.957] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jan2025 05:50:32.993] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jan2025 05:50:33.039] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jan2025 05:50:33.041] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jan2025 05:50:33.121] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jan2025 05:50:33.203] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jan2025 05:50:33.246] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jan2025 05:50:33.293] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jan2025 05:50:33.294] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jan2025 05:50:33.365] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jan2025 05:50:33.427] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jan2025 05:50:33.797] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jan2025 05:50:33.837] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jan2025 05:50:33.838] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jan2025 05:50:33.981] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jan2025 05:50:42.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:57879] logged in with entity id 3526 at (-104.98750001192093, 8.691092648288977, -246.26239116828762)
+[08Jan2025 05:50:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[08Jan2025 05:50:43.002] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[08Jan2025 05:52:23.995] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.996] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.996] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.996] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.997] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.997] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.997] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.998] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Jan2025 05:52:23.998] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.998] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.998] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:23.999] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.000] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.001] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Jan2025 05:52:24.001] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.002] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Jan2025 05:52:24.003] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[08Jan2025 05:52:24.003] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.003] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.004] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.004] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.005] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.005] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.005] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.006] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.006] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.007] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:52:24.007] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[08Jan2025 05:54:58.861] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -101], discarding
+[08Jan2025 05:54:58.862] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -100], discarding
+[08Jan2025 05:54:58.863] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -99], discarding
+[08Jan2025 05:54:58.864] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -98], discarding
+[08Jan2025 05:54:58.864] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -97], discarding
+[08Jan2025 05:54:58.865] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -96], discarding
+[08Jan2025 05:54:58.882] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -101], discarding
+[08Jan2025 05:54:58.884] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: eeeabsmobs:guling
+[08Jan2025 05:54:58.884] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -100], discarding
+[08Jan2025 05:54:58.885] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -99], discarding
+[08Jan2025 05:54:58.886] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -98], discarding
+[08Jan2025 05:54:58.887] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -97], discarding
+[08Jan2025 05:54:58.888] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -96], discarding
+[08Jan2025 05:54:58.891] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -101], discarding
+[08Jan2025 05:54:58.892] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -100], discarding
+[08Jan2025 05:54:58.894] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -99], discarding
+[08Jan2025 05:54:58.895] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -98], discarding
+[08Jan2025 05:54:58.896] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -97], discarding
+[08Jan2025 05:54:58.897] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -96], discarding
+[08Jan2025 05:54:58.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -101], discarding
+[08Jan2025 05:54:58.901] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -100], discarding
+[08Jan2025 05:54:58.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -99], discarding
+[08Jan2025 05:54:58.904] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -98], discarding
+[08Jan2025 05:54:58.905] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -97], discarding
+[08Jan2025 05:54:58.906] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -96], discarding
+[08Jan2025 05:54:58.934] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -101], discarding
+[08Jan2025 05:54:58.935] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -100], discarding
+[08Jan2025 05:54:58.936] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -99], discarding
+[08Jan2025 05:54:58.937] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -98], discarding
+[08Jan2025 05:54:58.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -97], discarding
+[08Jan2025 05:54:58.940] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -96], discarding
+[08Jan2025 05:54:58.943] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -101], discarding
+[08Jan2025 05:54:58.944] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -100], discarding
+[08Jan2025 05:54:58.945] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -99], discarding
+[08Jan2025 05:54:58.945] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -98], discarding
+[08Jan2025 05:54:58.946] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -97], discarding
+[08Jan2025 05:54:58.947] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -96], discarding
+[08Jan2025 05:56:00.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[08Jan2025 05:56:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[08Jan2025 05:57:08.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[08Jan2025 05:58:16.490] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jan2025 05:58:16.552] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jan2025 05:58:16.641] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jan2025 05:58:16.641] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jan2025 05:58:16.725] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jan2025 05:58:16.810] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jan2025 05:58:16.810] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jan2025 05:58:16.901] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jan2025 05:58:16.902] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jan2025 05:58:16.976] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jan2025 05:58:16.993] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jan2025 05:58:17.057] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jan2025 05:58:17.266] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jan2025 05:58:17.266] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jan2025 05:58:17.271] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jan2025 05:58:17.271] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jan2025 05:58:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[08Jan2025 05:58:21.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:44309] logged in with entity id 13552 at (147.11347349930975, 57.77018345879399, -1757.2561808425871)
+[08Jan2025 05:58:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[08Jan2025 05:58:21.242] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[08Jan2025 06:01:34.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[08Jan2025 06:03:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was doomed to fall by Fire Dragon
+[08Jan2025 06:03:43.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[08Jan2025 06:03:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[08Jan2025 06:03:58.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[08Jan2025 06:04:09.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roumen'/17297, l='ServerLevel[world]', x=744.40, y=66.82, z=-187.21] died, message: 'Roumen was shot by Pillager'
+[08Jan2025 06:04:09.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Roumen'/17297, l='ServerLevel[world]', x=744.40, y=66.82, z=-187.21] died: Roumen was shot by Pillager
+[08Jan2025 06:04:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Voluntary Exile]
+[08Jan2025 06:04:35.989] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Jan2025 06:04:36.050] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Jan2025 06:04:36.140] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Jan2025 06:04:36.140] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Jan2025 06:04:36.217] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Jan2025 06:04:36.288] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Jan2025 06:04:36.298] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Jan2025 06:04:36.368] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Jan2025 06:04:36.451] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Jan2025 06:04:36.451] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Jan2025 06:04:36.530] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Jan2025 06:04:36.531] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Jan2025 06:04:36.722] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Jan2025 06:04:36.722] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Jan2025 06:04:36.745] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Jan2025 06:04:36.745] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Jan2025 06:04:40.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:33227] logged in with entity id 17670 at (38.4561376177142, 65.0, -2190.5304656104704)
+[08Jan2025 06:04:40.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[08Jan2025 06:04:40.683] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[08Jan2025 06:04:49.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR burned to death
+[08Jan2025 06:05:13.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was doomed to fall
+[08Jan2025 06:05:59.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR walked into fire whilst fighting Fire Dragon
+[08Jan2025 06:07:59.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[08Jan2025 06:08:01.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was incinerated by Fire Dragon
+[08Jan2025 06:08:19.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[08Jan2025 06:08:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[08Jan2025 06:09:35.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=68, z=-2137} BlockPos{x=36, y=69, z=-2136}
+[08Jan2025 06:09:54.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was incinerated by Fire Dragon
+[08Jan2025 06:11:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was turned into KFC by Fire Dragon
+[08Jan2025 06:12:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[08Jan2025 06:14:57.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
