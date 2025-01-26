@@ -7762,3 +7762,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Jan2025 04:17:50.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jan2025 04:17:50.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jan2025 04:18:07.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Trick-or-Treat?]
+[26Jan2025 04:22:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[26Jan2025 04:22:50.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 04:22:50.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 04:26:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[26Jan2025 04:27:50.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 04:27:50.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 04:29:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Just What I Always Wanted]
+[26Jan2025 04:32:50.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 04:32:50.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

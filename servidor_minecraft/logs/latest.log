@@ -361,3 +361,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Jan2025 04:15:07.007] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [26Jan2025 04:15:07.008] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [26Jan2025 04:18:07.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Trick-or-Treat?]
+[26Jan2025 04:22:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[26Jan2025 04:26:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[26Jan2025 04:29:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Just What I Always Wanted]

@@ -5791,6 +5791,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 04:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-26 04:17:42 +0000"
@@ -5803,15 +5809,45 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 04:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-01-26 04:16:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-01-26 04:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-01-26 04:17:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "mca:excellent_gift": {
+    "criteria": {
+      "baby": "2025-01-26 04:29:08 +0000"
     },
     "done": true
   },
