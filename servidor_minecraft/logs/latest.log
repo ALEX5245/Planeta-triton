@@ -369,3 +369,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Jan2025 04:37:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [A Throwaway Joke]
 [26Jan2025 04:39:31.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
 [26Jan2025 04:40:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Next Generation]
+[26Jan2025 04:43:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[26Jan2025 04:48:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[26Jan2025 04:50:19.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has completed the challenge [Best Friends]

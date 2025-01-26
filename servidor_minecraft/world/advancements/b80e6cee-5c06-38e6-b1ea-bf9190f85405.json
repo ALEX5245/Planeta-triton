@@ -5845,6 +5845,12 @@
     },
     "done": true
   },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-01-26 04:50:19 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_impact_hammer": {
     "criteria": {
       "has_material": "2025-01-26 04:28:58 +0000"
