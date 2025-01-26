@@ -5791,9 +5791,15 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
-      "has_material": "2025-01-26 04:28:58 +0000"
+      "has_gold_ore": "2025-01-26 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-01-26 04:16:46 +0000"
     },
     "done": true
   },
@@ -5803,9 +5809,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_gold_ore": "2025-01-26 04:16:46 +0000"
+      "has_ender_eye": "2025-01-26 04:17:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-01-26 04:17:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/netherite_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-26 04:28:58 +0000"
     },
     "done": true
   },
@@ -5821,33 +5839,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
-    "criteria": {
-      "has_gold_ore": "2025-01-26 04:16:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-01-26 04:28:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-26 04:17:42 +0000"
-    },
-    "done": true
-  },
-  "mca:baby": {
-    "criteria": {
-      "baby": "2025-01-26 04:40:17 +0000"
-    },
-    "done": true
-  },
-  "mca:best_friend": {
-    "criteria": {
-      "baby": "2025-01-26 04:50:19 +0000"
     },
     "done": true
   },
@@ -5863,9 +5857,75 @@
     },
     "done": true
   },
-  "endrem:main/eyes_recipe": {
+  "mca:baby": {
     "criteria": {
-      "eyes": "2025-01-26 04:17:42 +0000"
+      "baby": "2025-01-26 04:40:17 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-01-26 04:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-26 05:14:23 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-01-26 05:22:50 +0000"
     },
     "done": true
   },

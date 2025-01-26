@@ -384,3 +384,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [26Jan2025 05:06:28.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [26Jan2025 05:06:38.205] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [26Jan2025 05:06:38.205] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[26Jan2025 05:17:12.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[26Jan2025 05:17:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[26Jan2025 05:19:54.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[26Jan2025 05:19:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[26Jan2025 05:19:54.092] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jan2025 05:20:09.525] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Jan2025 05:20:09.603] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Jan2025 05:20:09.682] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Jan2025 05:20:09.695] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Jan2025 05:20:09.761] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Jan2025 05:20:09.839] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Jan2025 05:20:09.840] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Jan2025 05:20:09.918] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Jan2025 05:20:10.001] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Jan2025 05:20:10.001] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Jan2025 05:20:10.083] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Jan2025 05:20:10.095] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Jan2025 05:20:10.275] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Jan2025 05:20:10.275] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Jan2025 05:20:10.280] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Jan2025 05:20:10.591] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Jan2025 05:20:17.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:51273] logged in with entity id 16726 at (750.4851520123359, 63.9375, -194.30000001192093)
+[26Jan2025 05:20:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[26Jan2025 05:20:17.996] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[26Jan2025 05:22:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 64 [Golden Apple] to A07K]
+[26Jan2025 05:22:50.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [They Grow Up So Fast]
