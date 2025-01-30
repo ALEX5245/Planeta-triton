@@ -6497,6 +6497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-30 07:54:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab": {
     "criteria": {
       "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
