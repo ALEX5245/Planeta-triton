@@ -8296,3 +8296,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 08:55:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
 [30Jan2025 08:55:32.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
 [30Jan2025 08:55:32.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[30Jan2025 08:59:24.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 08:59:24.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 09:04:24.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 09:04:24.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
