@@ -404,3 +404,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 07:28:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [30Jan2025 07:31:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Merchant]
 [30Jan2025 07:33:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[30Jan2025 07:38:29.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[30Jan2025 07:38:45.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[30Jan2025 07:38:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[30Jan2025 07:38:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Jan2025 07:39:58.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 07:41:35.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Žana to A07K]
+[30Jan2025 07:43:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Jadranka to A07K]
+[30Jan2025 07:43:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Dragoslav to A07K]
+[30Jan2025 07:44:40.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Amir'/67161, l='ServerLevel[world]', x=1320.51, y=61.13, z=-242.73] died, message: 'Amir was slain by IsaacR'
+[30Jan2025 07:44:40.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Amir'/67161, l='ServerLevel[world]', x=1320.51, y=61.13, z=-242.73] died: Amir was slain by IsaacR
