@@ -377,3 +377,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 06:01:12.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 41 [Book] to A07K]
 [30Jan2025 06:02:00.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [30Jan2025 06:02:48.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 41 [Bookshelf] to A07K]
+[30Jan2025 06:05:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]

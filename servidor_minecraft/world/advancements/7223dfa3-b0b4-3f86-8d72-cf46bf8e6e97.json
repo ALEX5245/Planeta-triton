@@ -6448,9 +6448,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
   "mca:grandparent": {
     "criteria": {
       "iron": "2025-01-30 05:45:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-01-30 06:02:33 +0000"
     },
     "done": true
   },
