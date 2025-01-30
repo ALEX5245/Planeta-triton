@@ -8286,3 +8286,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 08:43:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was doomed to fall by Ice Dragon
 [30Jan2025 08:44:24.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 08:44:25.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 08:48:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
+[30Jan2025 08:49:24.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 08:49:25.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 08:51:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Jan2025 08:54:24.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 08:54:24.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 08:55:07.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[30Jan2025 08:55:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[30Jan2025 08:55:32.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[30Jan2025 08:55:32.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
