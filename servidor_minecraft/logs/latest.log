@@ -378,3 +378,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 06:02:00.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [30Jan2025 06:02:48.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 41 [Bookshelf] to A07K]
 [30Jan2025 06:05:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Jan2025 06:18:33.223] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/42885, l='ServerLevel[world]', x=21.50, y=19.00, z=-209.50]
+[30Jan2025 06:20:21.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 06:21:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[30Jan2025 06:33:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 06:34:17.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Jan2025 06:34:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Pero khe
