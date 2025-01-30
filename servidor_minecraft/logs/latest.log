@@ -337,3 +337,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 05:32:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
 [30Jan2025 05:32:19.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Ice Bucket Challenge]
 [30Jan2025 05:33:29.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Jan2025 05:36:27.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:30.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:33.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:33.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:33.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:34.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:36:36.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
+[30Jan2025 05:38:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Enchanter]
+[30Jan2025 05:39:40.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[30Jan2025 05:39:40.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[30Jan2025 05:41:23.458] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Jan2025 05:41:23.603] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Jan2025 05:41:23.604] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Jan2025 05:41:23.604] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Jan2025 05:41:23.764] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Jan2025 05:41:23.765] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Jan2025 05:41:23.765] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Jan2025 05:41:23.924] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Jan2025 05:41:23.925] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Jan2025 05:41:23.925] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Jan2025 05:41:24.049] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Jan2025 05:41:24.078] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Jan2025 05:41:24.269] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Jan2025 05:41:24.269] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Jan2025 05:41:24.370] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Jan2025 05:41:24.370] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Jan2025 05:41:28.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:43039] logged in with entity id 17267 at (-102.02441887351364, 12.0, -238.77509275582395)
+[30Jan2025 05:41:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[30Jan2025 05:41:28.370] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[30Jan2025 05:45:02.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Back In My day...]
+[30Jan2025 05:46:05.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Jan2025 05:47:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[30Jan2025 05:47:36.802] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Jan2025 05:47:36.802] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Jan2025 05:48:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 05:49:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[30Jan2025 05:49:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
