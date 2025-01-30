@@ -419,3 +419,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 07:46:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Admir to A07K]
 [30Jan2025 07:47:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [30Jan2025 07:51:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
+[30Jan2025 08:10:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Genoveva to A07K]
+[30Jan2025 08:11:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [There is a Castle on a Cloud]
+[30Jan2025 08:11:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [What a Deal!]
+[30Jan2025 08:11:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [There is a Castle on a Cloud]
+[30Jan2025 08:11:41.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [What a Deal!]

@@ -8252,3 +8252,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 07:59:24.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 08:04:24.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 08:04:24.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 08:09:25.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 08:09:25.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 08:10:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Genoveva to A07K]
+[30Jan2025 08:11:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [There is a Castle on a Cloud]
+[30Jan2025 08:11:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [What a Deal!]
+[30Jan2025 08:11:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [There is a Castle on a Cloud]
+[30Jan2025 08:11:41.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [What a Deal!]
+[30Jan2025 08:14:24.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 08:14:24.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

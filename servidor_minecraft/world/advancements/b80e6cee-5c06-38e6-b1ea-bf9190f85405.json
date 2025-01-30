@@ -6260,6 +6260,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-01-30 05:17:40 +0000"
@@ -6287,6 +6293,12 @@
   "mca:merchant": {
     "criteria": {
       "baby": "2025-01-30 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:41 +0000"
     },
     "done": true
   },

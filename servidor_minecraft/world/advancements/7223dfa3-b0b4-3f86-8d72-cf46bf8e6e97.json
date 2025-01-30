@@ -6491,9 +6491,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:20 +0000"
     },
     "done": true
   },
