@@ -6038,6 +6038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-30 08:22:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_slab": {
     "criteria": {
       "has_cut_asurine_bricks": "2025-01-30 06:22:58 +0000"
