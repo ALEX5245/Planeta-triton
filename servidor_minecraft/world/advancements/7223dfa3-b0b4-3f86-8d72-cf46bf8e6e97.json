@@ -6449,9 +6449,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-30 07:08:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
     },
     "done": true
   },
@@ -6476,6 +6494,12 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-01-30 06:02:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
     },
     "done": true
   },
