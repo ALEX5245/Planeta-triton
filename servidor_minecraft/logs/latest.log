@@ -332,3 +332,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 05:00:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
 [30Jan2025 05:00:46.782] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
 [30Jan2025 05:08:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 05:17:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[30Jan2025 05:19:33.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=764, y=58, z=-215} BlockPos{x=764, y=58, z=-219}
+[30Jan2025 05:32:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[30Jan2025 05:32:19.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Ice Bucket Challenge]
+[30Jan2025 05:33:29.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
