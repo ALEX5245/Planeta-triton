@@ -427,3 +427,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 08:17:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
 [30Jan2025 08:18:17.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [30Jan2025 08:18:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> Iin
+[30Jan2025 08:27:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has completed the challenge [Back In My day...]
+[30Jan2025 08:40:14.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sailor'/1, l='ServerLevel[world]', x=376.49, y=67.00, z=-507.67] died: Sailor hit the ground too hard
+[30Jan2025 08:41:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was doomed to fall
+[30Jan2025 08:41:29.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[30Jan2025 08:42:04.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[30Jan2025 08:43:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was doomed to fall by Ice Dragon

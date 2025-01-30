@@ -6503,6 +6503,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-30 08:34:34 +0000"
+    },
+    "done": true
+  },
   "castle_in_the_sky:trade": {
     "criteria": {
       "traded": "2025-01-30 08:11:20 +0000"
