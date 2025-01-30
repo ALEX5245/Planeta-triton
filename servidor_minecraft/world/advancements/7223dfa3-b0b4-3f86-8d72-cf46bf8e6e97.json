@@ -6364,15 +6364,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_blue_dye": "2025-01-26 04:42:41 +0000"
+      "has_ender_eye": "2025-01-26 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-01-26 04:18:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-01-26 04:18:07 +0000"
     },
     "done": true
   },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-01-26 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 04:42:41 +0000"
     },
     "done": true
   },
@@ -6406,18 +6424,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-26 04:18:00 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/witch_eye": {
-    "criteria": {
-      "witch_eye": "2025-01-26 04:18:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-26 04:42:41 +0000"
@@ -6436,9 +6442,9 @@
     },
     "done": true
   },
-  "endrem:main/eyes_recipe": {
+  "endrem:main/rogue_eye": {
     "criteria": {
-      "eyes": "2025-01-26 04:18:00 +0000"
+      "rogue_eye": "2025-01-26 05:47:12 +0000"
     },
     "done": true
   },
