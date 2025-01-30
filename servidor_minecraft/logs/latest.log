@@ -414,3 +414,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 07:43:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Dragoslav to A07K]
 [30Jan2025 07:44:40.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Amir'/67161, l='ServerLevel[world]', x=1320.51, y=61.13, z=-242.73] died, message: 'Amir was slain by IsaacR'
 [30Jan2025 07:44:40.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Amir'/67161, l='ServerLevel[world]', x=1320.51, y=61.13, z=-242.73] died: Amir was slain by IsaacR
+[30Jan2025 07:46:17.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Branislav to A07K]
+[30Jan2025 07:46:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Mersiha to A07K]
+[30Jan2025 07:46:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Admir to A07K]
+[30Jan2025 07:47:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Jan2025 07:51:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
