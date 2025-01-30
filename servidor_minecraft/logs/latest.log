@@ -401,3 +401,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Jan2025 07:19:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the weather to clear]
 [30Jan2025 07:23:31.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [30Jan2025 07:24:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[30Jan2025 07:28:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[30Jan2025 07:31:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Merchant]
+[30Jan2025 07:33:23.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]

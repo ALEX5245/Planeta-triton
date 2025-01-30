@@ -6230,6 +6230,12 @@
     },
     "done": true
   },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-01-30 07:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-30 07:18:50 +0000"
