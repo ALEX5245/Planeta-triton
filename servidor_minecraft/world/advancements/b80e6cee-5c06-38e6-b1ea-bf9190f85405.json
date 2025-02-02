@@ -6506,5 +6506,17 @@
     },
     "done": true
   },
+  "mca:baby_sirben_smelted": {
+    "criteria": {
+      "baby": "2025-02-02 08:29:20 +0000"
+    },
+    "done": false
+  },
+  "mca:mayor": {
+    "criteria": {
+      "baby": "2025-02-02 08:29:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

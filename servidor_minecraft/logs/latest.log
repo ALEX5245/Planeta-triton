@@ -360,3 +360,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 07:46:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Noble]
 [02Feb2025 07:47:35.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K moved too quickly! 5.615134889589967,3.5511636926328123,-7.983323444782457
 [02Feb2025 08:05:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [What a Handful]
+[02Feb2025 08:29:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Mayor]
+[02Feb2025 08:37:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[02Feb2025 08:37:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[02Feb2025 08:41:06.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/34237, l='ServerLevel[world]', x=778.25, y=69.17, z=-276.65] died, message: 'Evgenia was slain by Zombie'
+[02Feb2025 08:42:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[02Feb2025 08:42:31.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[02Feb2025 08:42:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game

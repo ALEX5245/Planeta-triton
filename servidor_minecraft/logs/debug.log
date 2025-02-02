@@ -7488,3 +7488,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 08:05:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [What a Handful]
 [02Feb2025 08:07:47.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 08:07:47.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:12:47.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:12:47.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:17:47.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:17:47.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:22:47.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:22:47.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:27:47.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:27:47.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:29:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Mayor]
+[02Feb2025 08:32:47.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:32:47.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:37:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[02Feb2025 08:37:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[02Feb2025 08:37:47.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 08:37:47.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 08:41:06.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/34237, l='ServerLevel[world]', x=778.25, y=69.17, z=-276.65] died, message: 'Evgenia was slain by Zombie'
+[02Feb2025 08:42:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[02Feb2025 08:42:31.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[02Feb2025 08:42:31.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
