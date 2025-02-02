@@ -6422,6 +6422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-02 03:12:01 +0000"
+    },
+    "done": true
+  },
   "mca:family": {
     "criteria": {
       "iron": "2025-02-02 02:54:11 +0000"
