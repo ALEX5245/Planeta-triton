@@ -6422,15 +6422,63 @@
     },
     "done": true
   },
+  "mca:family": {
+    "criteria": {
+      "iron": "2025-02-02 02:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-02 03:12:01 +0000"
     },
     "done": true
   },
-  "mca:family": {
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
     "criteria": {
-      "iron": "2025-02-02 02:54:11 +0000"
+      "has_cut_tuff_bricks": "2025-02-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-02-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-02-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-02 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-02 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-02 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-02-02 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-02 03:21:43 +0000"
     },
     "done": true
   },
