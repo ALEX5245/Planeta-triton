@@ -7368,3 +7368,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 02:40:53.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Feb2025 02:45:53.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 02:45:53.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 02:50:53.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 02:50:53.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 02:53:18.437] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Feb2025 02:54:11.675] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[02Feb2025 02:54:11.676] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[02Feb2025 02:54:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Settling In]
+[02Feb2025 02:55:53.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 02:55:53.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 02:58:40.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Juan Carlos'/81, l='ServerLevel[world]', x=748.70, y=61.13, z=-250.70] died, message: 'Juan Carlos drowned'
+[02Feb2025 02:58:40.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Juan Carlos'/81, l='ServerLevel[world]', x=748.70, y=61.13, z=-250.70] died: Juan Carlos drowned
