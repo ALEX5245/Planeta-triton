@@ -352,3 +352,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 06:03:18.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
 [02Feb2025 06:03:31.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5318, l='ServerLevel[world]', x=780.70, y=77.00, z=-243.70] died, message: 'Unemployed was slain by A07K'
 [02Feb2025 06:11:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[02Feb2025 06:23:21.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 5 [Black Wool] to A07K]
+[02Feb2025 06:24:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 7 [Black Dye] to A07K]
