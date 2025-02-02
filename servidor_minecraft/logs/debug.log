@@ -7468,3 +7468,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 07:26:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
 [02Feb2025 07:27:47.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 07:27:47.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 07:32:47.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 07:32:47.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 07:37:47.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 07:37:47.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 07:42:47.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 07:42:47.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 07:46:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Noble]
+[02Feb2025 07:47:35.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K moved too quickly! 5.615134889589967,3.5511636926328123,-7.983323444782457
+[02Feb2025 07:47:47.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 07:47:47.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 07:47:47.835] [repurposedstructures-1-thread-1/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.ender_remastered.json into net.minecraft.world.level.levelgen.NoiseChunk

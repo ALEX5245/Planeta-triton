@@ -357,3 +357,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [02Feb2025 06:39:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
 [02Feb2025 07:17:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
 [02Feb2025 07:26:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
+[02Feb2025 07:46:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Noble]
+[02Feb2025 07:47:35.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K moved too quickly! 5.615134889589967,3.5511636926328123,-7.983323444782457
