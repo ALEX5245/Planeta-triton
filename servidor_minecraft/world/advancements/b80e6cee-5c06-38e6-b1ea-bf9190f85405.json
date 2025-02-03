@@ -6573,6 +6573,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-02-03 07:33:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-03 07:04:42 +0000"
@@ -6804,6 +6810,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 06:53:43 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-03 07:36:14 +0000"
     },
     "done": true
   },

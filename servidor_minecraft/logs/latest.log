@@ -481,3 +481,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 07:22:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [03Feb2025 07:22:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
 [03Feb2025 07:23:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 07:33:27.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[03Feb2025 07:33:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Fetch Me Their Souls!]
+[03Feb2025 07:34:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Spectator Mode]
+[03Feb2025 07:36:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [The Soul Forge]
+[03Feb2025 07:36:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:36:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [The Soul Forge]
+[03Feb2025 07:36:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR fell from a high place
+[03Feb2025 07:36:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:36:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[03Feb2025 07:37:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR burned to death
+[03Feb2025 07:37:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was burnt to a crisp whilst fighting Netherite Monstrosity
+[03Feb2025 07:37:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:37:49.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
