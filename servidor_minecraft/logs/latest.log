@@ -399,3 +399,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 06:36:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
 [03Feb2025 06:36:31.367] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
 [03Feb2025 06:37:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[03Feb2025 06:37:08.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported A07K to IsaacR]
+[03Feb2025 06:37:12.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set A07K's game mode to Creative Mode]
+[03Feb2025 06:37:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 06:37:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Straddle My Ol' Saddle]
+[03Feb2025 06:39:19.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 06:39:24.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR burned to death
+[03Feb2025 06:39:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 06:39:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[03Feb2025 06:42:53.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K fell from a high place
+[03Feb2025 06:43:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K didn't manage to keep wet
+[03Feb2025 06:43:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[03Feb2025 06:44:31.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Timed out
+[03Feb2025 06:44:31.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[03Feb2025 06:44:55.417] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Feb2025 06:44:55.493] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Feb2025 06:44:55.574] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Feb2025 06:44:55.575] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Feb2025 06:44:55.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Feb2025 06:44:55.731] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Feb2025 06:44:55.732] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Feb2025 06:44:55.809] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Feb2025 06:44:55.888] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Feb2025 06:44:55.935] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Feb2025 06:44:55.979] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Feb2025 06:44:55.980] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Feb2025 06:44:56.347] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Feb2025 06:44:56.347] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Feb2025 06:44:56.387] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Feb2025 06:44:56.412] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Feb2025 06:45:02.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:51421] logged in with entity id 26624 at (143.5, 34.0, -82.5)
+[03Feb2025 06:45:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[03Feb2025 06:45:02.654] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[03Feb2025 06:45:15.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Straddle My Ol' Saddle]
+[03Feb2025 06:45:54.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[03Feb2025 06:46:08.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Stare Into Despair]
+[03Feb2025 06:46:28.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Stare Into Despair]
+[03Feb2025 06:46:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
