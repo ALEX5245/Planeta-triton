@@ -8647,3 +8647,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 07:37:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was burnt to a crisp whilst fighting Netherite Monstrosity
 [03Feb2025 07:37:46.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [03Feb2025 07:37:49.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[03Feb2025 07:38:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[03Feb2025 07:38:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:39:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 07:39:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR tried to swim in lava to escape Netherite Monstrosity
+[03Feb2025 07:39:15.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:40:45.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Netherite Monstrosity
+[03Feb2025 07:40:47.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has completed the challenge [The broken Nether's warmachine]
+[03Feb2025 07:40:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:41:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[03Feb2025 07:42:04.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Hidden in the Depths]
+[03Feb2025 07:42:28.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 07:42:28.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 07:44:45.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[03Feb2025 07:46:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 07:46:49.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Timed out
+[03Feb2025 07:46:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[03Feb2025 07:47:28.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 07:47:28.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
