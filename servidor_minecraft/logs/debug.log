@@ -8617,3 +8617,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 07:17:26.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [A Terrible Fortress]
 [03Feb2025 07:17:28.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 07:17:28.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 07:17:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 07:17:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[03Feb2025 07:17:38.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [A Terrible Fortress]
+[03Feb2025 07:19:40.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR withered away whilst fighting Blaze
+[03Feb2025 07:19:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:22:28.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 07:22:28.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 07:22:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR withered away
+[03Feb2025 07:22:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:22:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[03Feb2025 07:23:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 07:27:28.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 07:27:28.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

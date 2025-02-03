@@ -922,6 +922,7 @@
       "minecraft:evoker": "2024-12-31 06:25:59 +0000",
       "minecraft:phantom": "2024-12-28 07:27:15 +0000",
       "minecraft:witch": "2025-01-08 07:13:57 +0000",
+      "minecraft:wither_skeleton": "2025-02-03 07:18:16 +0000",
       "minecraft:husk": "2025-01-08 07:22:07 +0000",
       "minecraft:enderman": "2025-01-12 06:10:52 +0000",
       "minecraft:vex": "2024-12-31 06:26:57 +0000",
@@ -6695,6 +6696,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 06:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-03 07:17:38 +0000"
     },
     "done": true
   },
