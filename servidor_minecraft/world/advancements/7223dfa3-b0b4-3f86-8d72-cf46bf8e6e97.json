@@ -6545,6 +6545,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-02-03 06:54:01 +0000",
       "minecraft:soul_sand_valley": "2025-02-03 06:35:27 +0000",
       "minecraft:basalt_deltas": "2025-02-03 06:36:33 +0000"
     },
@@ -6580,6 +6581,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 06:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-02-03 06:46:08 +0000"
@@ -6589,6 +6620,18 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-02-03 06:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-03 06:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 06:58:19 +0000"
     },
     "done": true
   },
@@ -6619,6 +6662,24 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-02-03 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-03 06:58:19 +0000"
     },
     "done": true
   },

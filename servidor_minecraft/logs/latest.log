@@ -449,3 +449,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 06:55:24.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Ghost! Ghost! Toast?]
 [03Feb2025 06:55:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [03Feb2025 06:56:51.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[03Feb2025 06:57:42.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[03Feb2025 06:58:02.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 06:58:06.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[03Feb2025 06:58:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 06:59:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:01:08.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:01:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:03:11.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was doomed to fall by Skeleton
+[03Feb2025 07:03:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[03Feb2025 07:05:33.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
