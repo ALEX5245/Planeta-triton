@@ -367,3 +367,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 05:55:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Admir to A07K]
 [03Feb2025 05:57:23.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [03Feb2025 05:58:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A07K> [name:"Ciclope ", x:1828, y:73, z:-709, dim:minecraft:overworld]
+[03Feb2025 06:12:28.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved wrongly!
