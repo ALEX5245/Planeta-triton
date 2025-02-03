@@ -7368,3 +7368,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 03:46:02.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Feb2025 03:46:54.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 64 [Acacia Planks] to A07K]
 [03Feb2025 03:48:25.877] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jadranka}[style={}] has been infected
+[03Feb2025 03:51:02.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:51:02.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 03:56:02.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:56:02.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 03:56:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[03Feb2025 04:01:02.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 04:01:02.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 04:03:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
+[03Feb2025 04:05:04.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/6211, l='ServerLevel[world]', x=780.89, y=66.94, z=-209.93] died, message: 'Evgenia suffocated in a wall'
+[03Feb2025 04:05:04.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Evgenia'/6211, l='ServerLevel[world]', x=780.89, y=66.94, z=-209.93] died: Evgenia suffocated in a wall
+[03Feb2025 04:06:02.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 04:06:02.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

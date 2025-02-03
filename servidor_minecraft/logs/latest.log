@@ -315,3 +315,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [03Feb2025 03:36:57.548] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Feb2025 03:46:54.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Gave 64 [Acacia Planks] to A07K]
 [03Feb2025 03:48:25.877] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jadranka}[style={}] has been infected
+[03Feb2025 03:56:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[03Feb2025 04:03:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 1000]
+[03Feb2025 04:05:04.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/6211, l='ServerLevel[world]', x=780.89, y=66.94, z=-209.93] died, message: 'Evgenia suffocated in a wall'
+[03Feb2025 04:05:04.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Evgenia'/6211, l='ServerLevel[world]', x=780.89, y=66.94, z=-209.93] died: Evgenia suffocated in a wall
