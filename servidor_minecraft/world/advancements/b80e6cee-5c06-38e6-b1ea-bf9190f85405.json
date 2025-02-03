@@ -6494,15 +6494,15 @@
     },
     "done": true
   },
-  "mca:grow_child": {
-    "criteria": {
-      "baby": "2025-02-02 08:05:32 +0000"
-    },
-    "done": true
-  },
   "mca:noble": {
     "criteria": {
       "baby": "2025-02-02 07:46:10 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2025-02-02 08:05:32 +0000"
     },
     "done": true
   },
