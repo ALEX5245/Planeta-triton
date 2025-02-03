@@ -6449,33 +6449,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "mca:grandparent": {
     "criteria": {
-      "has_emerald_block": "2025-01-30 07:08:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall": {
-    "criteria": {
-      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
+      "iron": "2025-01-30 05:45:02 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-01-30 06:02:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
-    "criteria": {
-      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
-    },
-    "done": true
-  },
-  "mca:grandparent": {
-    "criteria": {
-      "iron": "2025-01-30 05:45:02 +0000"
     },
     "done": true
   },
@@ -6491,39 +6473,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-30 08:11:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2025-01-30 08:45:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-01-30 06:02:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
-      "has_silver_nugget": "2025-01-30 08:34:34 +0000"
+      "has_item": "2025-01-30 06:02:33 +0000"
     },
     "done": true
   },
-  "castle_in_the_sky:trade": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "traded": "2025-01-30 08:11:20 +0000"
+      "has_emerald_block": "2025-01-30 07:08:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "create:recipes/building_blocks/cut_veridium_brick_wall": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-01-30 07:54:57 +0000"
+      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs": {
+    "criteria": {
+      "has_cut_veridium_bricks": "2025-01-30 07:12:41 +0000"
     },
     "done": true
   },
@@ -6533,9 +6509,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_item": "2025-01-30 06:02:33 +0000"
+      "has_lily_of_the_valley": "2025-01-30 07:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:20 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-01-30 08:11:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-30 08:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-01-30 08:45:05 +0000"
     },
     "done": true
   },
