@@ -6936,5 +6936,11 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-02-08 04:04:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
