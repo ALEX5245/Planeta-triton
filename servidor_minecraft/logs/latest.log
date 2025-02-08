@@ -319,3 +319,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [08Feb2025 04:14:01.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [08Feb2025 04:14:01.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [08Feb2025 04:14:29.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Captain'/14, l='ServerLevel[world]', x=373.49, y=67.06, z=-507.62] died: Captain hit the ground too hard
+[08Feb2025 04:18:05.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Gettin' grubby]
