@@ -70,6 +70,7 @@
       "minecraft:snowy_slopes": "2025-01-08 06:59:55 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-12 06:02:56 +0000",
       "minecraft:mushroom_fields": "2024-12-14 08:14:36 +0000",
+      "minecraft:taiga": "2025-02-08 04:57:14 +0000",
       "minecraft:deep_ocean": "2024-12-14 06:09:27 +0000",
       "minecraft:eroded_badlands": "2025-01-08 06:21:41 +0000",
       "minecraft:sunflower_plains": "2024-12-14 06:44:25 +0000",
@@ -88,8 +89,11 @@
       "minecraft:lukewarm_ocean": "2025-01-08 06:56:02 +0000",
       "minecraft:stony_shore": "2025-01-12 06:40:54 +0000",
       "minecraft:dripstone_caves": "2025-01-26 05:37:58 +0000",
+      "minecraft:swamp": "2025-02-08 05:49:18 +0000",
+      "minecraft:cold_ocean": "2025-02-08 04:51:41 +0000",
       "minecraft:forest": "2024-12-21 04:14:16 +0000",
       "minecraft:lush_caves": "2024-12-31 06:15:13 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-08 04:53:18 +0000",
       "minecraft:desert": "2025-01-08 06:21:14 +0000",
       "minecraft:ocean": "2024-12-14 06:11:21 +0000",
       "minecraft:jungle": "2025-01-08 07:05:37 +0000",
@@ -920,6 +924,7 @@
       "minecraft:spider": "2024-12-22 05:29:55 +0000",
       "minecraft:creeper": "2024-12-22 05:26:48 +0000",
       "minecraft:evoker": "2024-12-31 06:25:59 +0000",
+      "minecraft:slime": "2025-02-08 05:50:33 +0000",
       "minecraft:phantom": "2024-12-28 07:27:15 +0000",
       "minecraft:witch": "2025-01-08 07:13:57 +0000",
       "minecraft:wither_skeleton": "2025-02-03 07:18:16 +0000",
@@ -6942,6 +6947,120 @@
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2025-02-03 07:53:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-02-08 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-08 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-02-08 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-02-08 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-02-08 04:52:18 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_birch": "2025-02-08 06:03:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-08 06:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-08 05:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-08 05:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-08 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-08 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-02-08 05:32:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-02-08 06:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-08 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-08 05:53:58 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-08 05:46:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-08 05:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-08 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-08 05:57:50 +0000"
     },
     "done": true
   },

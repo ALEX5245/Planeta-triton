@@ -87,6 +87,7 @@
       "minecraft:lukewarm_ocean": "2024-12-14 06:14:30 +0000",
       "minecraft:river": "2024-12-14 05:59:53 +0000",
       "minecraft:dripstone_caves": "2025-01-12 05:15:35 +0000",
+      "minecraft:swamp": "2025-02-08 05:50:39 +0000",
       "minecraft:cold_ocean": "2024-12-15 03:17:17 +0000",
       "minecraft:forest": "2024-12-14 06:02:06 +0000",
       "minecraft:lush_caves": "2024-12-21 07:50:56 +0000",
@@ -100,6 +101,7 @@
       "minecraft:flower_forest": "2024-12-21 08:38:36 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 02:27:10 +0000",
       "minecraft:meadow": "2024-12-15 04:38:21 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-08 06:37:17 +0000",
       "minecraft:savanna": "2024-12-21 05:14:32 +0000",
       "minecraft:plains": "2024-12-14 05:59:28 +0000"
     },
@@ -2969,7 +2971,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_mountains": "2024-12-15 04:19:37 +0000"
+      "in_village_mountains": "2024-12-15 04:19:37 +0000",
+      "in_village_birch": "2025-02-08 06:03:06 +0000"
     },
     "done": false
   },
@@ -5633,6 +5636,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_birch": "2025-02-08 06:44:13 +0000",
       "in_outpost_taiga": "2025-01-08 06:59:11 +0000",
       "in_outpost_badlands": "2025-01-08 07:16:18 +0000"
     },
@@ -6945,6 +6949,138 @@
   "roost:gettin_grubby": {
     "criteria": {
       "gettin_grubby": "2025-02-08 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-02-08 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-08 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-08 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-08 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-08 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-08 04:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-08 05:14:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-02-08 05:22:52 +0000"
+    },
+    "done": true
+  },
+  "mca:family": {
+    "criteria": {
+      "iron": "2025-02-08 05:36:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-08 05:45:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-02-08 05:48:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-02-08 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:city_overworld": {
+    "criteria": {
+      "city_overworld": "2025-02-08 06:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-02-08 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-02-08 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-02-08 06:18:29 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-08 06:27:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-08 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-02-08 06:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-08 06:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-08 06:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-08 06:23:01 +0000"
     },
     "done": true
   },
