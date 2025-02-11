@@ -313,3 +313,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [11Feb2025 04:47:29.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lubov'/19207, l='ServerLevel[world]', x=-281.18, y=100.87, z=-1415.66] died, message: 'Lubov was slain by Ice Dragon'
 [11Feb2025 04:49:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 120 [Dragon Bone Arrow] to IsaacR]
 [11Feb2025 04:49:53.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[11Feb2025 04:52:57.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[11Feb2025 04:53:20.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dmitri'/20952, l='ServerLevel[world]', x=-292.79, y=63.00, z=-1406.72] died, message: 'Dmitri was turned to ice by Ice Dragon'
+[11Feb2025 04:53:20.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dmitri'/20952, l='ServerLevel[world]', x=-292.79, y=63.00, z=-1406.72] died: Dmitri was turned to ice by Ice Dragon
+[11Feb2025 04:54:14.869] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[11Feb2025 04:54:14.932] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[11Feb2025 04:54:14.936] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[11Feb2025 04:54:15.006] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[11Feb2025 04:54:15.087] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[11Feb2025 04:54:15.087] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[11Feb2025 04:54:15.161] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[11Feb2025 04:54:15.237] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[11Feb2025 04:54:15.240] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[11Feb2025 04:54:15.312] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[11Feb2025 04:54:15.394] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[11Feb2025 04:54:15.394] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[11Feb2025 04:54:15.683] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[11Feb2025 04:54:15.701] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[11Feb2025 04:54:15.701] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[11Feb2025 04:54:15.735] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[11Feb2025 04:54:21.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:34203] logged in with entity id 21300 at (4304.479572845236, 65.25, -6021.1070963694465)
+[11Feb2025 04:54:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[11Feb2025 04:54:21.195] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[11Feb2025 04:55:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[11Feb2025 04:58:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[11Feb2025 04:58:39.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/21125, l='ServerLevel[world]', x=-291.83, y=63.50, z=-1394.21] died, message: 'Natalia was pricked to death'
+[11Feb2025 04:58:39.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/21125, l='ServerLevel[world]', x=-291.83, y=63.50, z=-1394.21] died: Natalia was pricked to death
+[11Feb2025 04:58:59.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[11Feb2025 04:59:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[11Feb2025 05:04:04.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marat'/21123, l='ServerLevel[world]', x=-295.29, y=65.50, z=-1401.71] died, message: 'Marat was pricked to death'
+[11Feb2025 05:04:04.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marat'/21123, l='ServerLevel[world]', x=-295.29, y=65.50, z=-1401.71] died: Marat was pricked to death
+[11Feb2025 05:05:33.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[11Feb2025 05:06:45.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 13000]
+[11Feb2025 05:09:10.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has reached the goal [Zombie Doctor]
+[11Feb2025 05:09:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Simone (Staying) to A07K]
