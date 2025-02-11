@@ -347,3 +347,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [11Feb2025 05:06:45.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the time to 13000]
 [11Feb2025 05:09:10.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has reached the goal [Zombie Doctor]
 [11Feb2025 05:09:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Simone (Staying) to A07K]
+[11Feb2025 05:14:12.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Kseniya (Staying) to A07K]
+[11Feb2025 05:14:44.041] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Janusch}[style={}] has been infected
+[11Feb2025 05:14:47.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Aleksei (Staying) to A07K]
+[11Feb2025 05:14:48.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Janusch'/24293, l='ServerLevel[world]', x=781.89, y=77.00, z=-241.20] died, message: 'Janusch was slain by Zombie'
+[11Feb2025 05:14:48.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Janusch'/24293, l='ServerLevel[world]', x=781.89, y=77.00, z=-241.20] died: Janusch was slain by Zombie
+[11Feb2025 05:15:19.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Veniamin (Staying) to A07K]
+[11Feb2025 05:16:55.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K moved too quickly! -9.52490572273291,-3.1909013491950162,1.7552092004304711
+[11Feb2025 05:18:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[11Feb2025 05:21:25.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
