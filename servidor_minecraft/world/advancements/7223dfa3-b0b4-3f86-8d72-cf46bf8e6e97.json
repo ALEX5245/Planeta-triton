@@ -7024,12 +7024,6 @@
     },
     "done": true
   },
-  "repurposed_structures:city_overworld": {
-    "criteria": {
-      "city_overworld": "2025-02-08 06:48:36 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-02-08 06:04:31 +0000"
@@ -7039,18 +7033,6 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-02-08 06:04:31 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2025-02-08 06:18:29 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-08 06:27:26 +0000"
     },
     "done": true
   },
@@ -7066,6 +7048,24 @@
     },
     "done": true
   },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-02-08 06:18:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-08 06:23:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-08 06:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-08 06:40:39 +0000"
@@ -7078,9 +7078,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "repurposed_structures:city_overworld": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-02-08 06:23:01 +0000"
+      "city_overworld": "2025-02-08 06:48:36 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2025-02-11 04:40:27 +0000"
     },
     "done": true
   },
