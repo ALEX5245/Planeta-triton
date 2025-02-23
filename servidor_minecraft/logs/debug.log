@@ -8429,3 +8429,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 03:09:57.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 03:09:57.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2025 03:10:32.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13298, l='ServerLevel[world]', x=16.50, y=18.00, z=-199.50]
+[23Feb2025 03:14:57.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 03:14:57.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 03:16:26.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Paola
+[23Feb2025 03:16:32.147] [Worker-Main-47/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.148] [Worker-Main-47/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.148] [Worker-Main-47/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.148] [Worker-Main-47/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.149] [Worker-Main-47/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.149] [Worker-Main-47/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.151] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.152] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Feb2025 03:16:32.584] [Worker-Main-56/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.ender_remastered.json into net.minecraft.world.level.levelgen.NoiseChunk
+[23Feb2025 03:16:32.595] [Worker-Main-55/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Feb2025 03:16:32.596] [Worker-Main-55/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Feb2025 03:16:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 03:18:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was shot by IsaacR
+[23Feb2025 03:19:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 03:19:42.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[23Feb2025 03:19:57.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 03:19:57.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 03:21:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 03:21:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 03:24:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]

@@ -376,3 +376,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 02:54:13.671] [Server thread/INFO] [Jade/]: Syncing config to Paola (c16199d7-6e69-3f3f-afa4-82b91fa6b81d)
 [23Feb2025 02:54:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
 [23Feb2025 03:10:32.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13298, l='ServerLevel[world]', x=16.50, y=18.00, z=-199.50]
+[23Feb2025 03:16:26.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Paola
+[23Feb2025 03:16:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 03:18:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was shot by IsaacR
+[23Feb2025 03:19:17.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 03:19:42.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[23Feb2025 03:21:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 03:21:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 03:24:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
