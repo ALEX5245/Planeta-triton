@@ -101,6 +101,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-14 06:09:06 +0000",
       "minecraft:flower_forest": "2024-12-21 08:38:36 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-31 02:27:10 +0000",
+      "minecraft:deep_dark": "2025-02-23 06:09:30 +0000",
       "minecraft:meadow": "2024-12-15 04:38:21 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-08 06:37:17 +0000",
       "minecraft:savanna": "2024-12-21 05:14:32 +0000",
@@ -7446,6 +7447,12 @@
       "has_sherd": "2025-02-23 05:24:59 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-23 06:14:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

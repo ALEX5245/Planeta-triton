@@ -598,3 +598,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 06:02:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
 [23Feb2025 06:02:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
 [23Feb2025 06:02:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 06:07:20.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:07:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:07:49.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 06:08:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:09:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[23Feb2025 06:10:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:12:03.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[23Feb2025 06:12:20.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Paola lost connection: Disconnected
+[23Feb2025 06:12:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola left the game
+[23Feb2025 06:12:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:13:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 06:13:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:14:02.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K fell from a high place
+[23Feb2025 06:14:10.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[23Feb2025 06:14:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Sneak 100]
+[23Feb2025 06:14:20.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was obliterated by a sonically-charged shriek
+[23Feb2025 06:14:34.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Applied effect Absorption to 2 targets]
+[23Feb2025 06:14:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Applied effect Night Vision to 2 targets]
+[23Feb2025 06:15:06.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Sneak 100]
+[23Feb2025 06:15:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 06:15:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was obliterated by a sonically-charged shriek
+[23Feb2025 06:16:34.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
