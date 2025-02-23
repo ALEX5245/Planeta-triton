@@ -96,6 +96,7 @@
       "minecraft:ocean": "2024-12-14 06:16:47 +0000",
       "minecraft:jungle": "2024-12-21 07:38:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-12 06:01:45 +0000",
+      "minecraft:windswept_savanna": "2025-02-11 07:17:54 +0000",
       "minecraft:warm_ocean": "2025-01-08 06:23:39 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-14 06:09:06 +0000",
       "minecraft:flower_forest": "2024-12-21 08:38:36 +0000",
@@ -788,6 +789,7 @@
       "minecraft:skeleton": "2024-12-15 03:20:59 +0000",
       "minecraft:elder_guardian": "2024-12-14 08:06:39 +0000",
       "minecraft:ravager": "2025-01-08 06:39:49 +0000",
+      "minecraft:ghast": "2025-02-11 06:35:32 +0000",
       "minecraft:guardian": "2024-12-14 08:02:19 +0000",
       "minecraft:vindicator": "2024-12-22 04:47:42 +0000",
       "minecraft:magma_cube": "2025-02-03 06:38:04 +0000",
@@ -871,7 +873,8 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_ocean": "2024-12-14 06:22:44 +0000",
-      "in_mineshaft_nether": "2025-02-03 06:45:52 +0000"
+      "in_mineshaft_nether": "2025-02-03 06:45:52 +0000",
+      "in_mineshaft_savanna": "2025-02-11 05:48:01 +0000"
     },
     "done": false
   },
@@ -2323,7 +2326,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_ocean": "2024-12-14 08:42:13 +0000"
+      "in_pyramid_ocean": "2024-12-14 08:42:13 +0000",
+      "in_pyramid_badlands": "2025-02-11 07:18:30 +0000"
     },
     "done": false
   },
@@ -4070,6 +4074,7 @@
   },
   "repurposed_structures:igloos": {
     "criteria": {
+      "in_igloo_grassy": "2025-02-11 05:57:51 +0000",
       "in_igloo_stone": "2024-12-21 08:32:12 +0000"
     },
     "done": false
@@ -6562,6 +6567,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-11 06:25:36 +0000",
       "minecraft:nether_wastes": "2025-02-03 06:54:01 +0000",
       "minecraft:soul_sand_valley": "2025-02-03 06:35:27 +0000",
       "minecraft:basalt_deltas": "2025-02-03 06:36:33 +0000"
@@ -7093,6 +7099,210 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-02-11 04:54:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-11 05:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-11 05:42:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-02-11 05:49:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-02-11 06:12:17 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2025-02-11 06:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-11 06:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-11 06:23:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-11 06:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-02-11 06:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-11 06:38:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-02-11 07:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-11 07:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-02-11 07:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-02-11 07:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2025-02-11 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2025-02-11 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-02-11 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-02-11 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2025-02-11 07:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-02-11 07:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-02-11 07:16:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-11 07:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-11 07:19:59 +0000"
     },
     "done": true
   },
