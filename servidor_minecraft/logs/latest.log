@@ -375,3 +375,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 02:54:13.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola joined the game
 [23Feb2025 02:54:13.671] [Server thread/INFO] [Jade/]: Syncing config to Paola (c16199d7-6e69-3f3f-afa4-82b91fa6b81d)
 [23Feb2025 02:54:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 03:10:32.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13298, l='ServerLevel[world]', x=16.50, y=18.00, z=-199.50]
