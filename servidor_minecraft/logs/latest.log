@@ -467,3 +467,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 05:03:13.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4417, y=114, z=-122} BlockPos{x=4416, y=113, z=-123}
 [23Feb2025 05:09:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was burnt to a crisp whilst fighting IsaacR
 [23Feb2025 05:12:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[23Feb2025 05:16:12.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[23Feb2025 05:19:48.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[23Feb2025 05:19:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[23Feb2025 05:21:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Flint and Steel] to IsaacR]
+[23Feb2025 05:23:53.173] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 05:23:53.250] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 05:23:53.327] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 05:23:53.329] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 05:23:53.403] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 05:23:53.479] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 05:23:53.480] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 05:23:53.556] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 05:23:53.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 05:23:53.646] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 05:23:53.711] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 05:23:53.769] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 05:23:53.883] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 05:23:53.896] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 05:23:53.937] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 05:23:53.946] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 05:23:59.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:51163] logged in with entity id 79851 at (4811.807404171773, 60.17459908099147, -118.83142121027875)
+[23Feb2025 05:23:59.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[23Feb2025 05:23:59.215] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[23Feb2025 05:24:36.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristófer'/78182, l='ServerLevel[world]', x=4842.48, y=62.51, z=-210.31] died, message: 'Kristófer was shot by A07K'
+[23Feb2025 05:24:38.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Halldór'/78183, l='ServerLevel[world]', x=4842.50, y=62.51, z=-208.69] died, message: 'Halldór was shot by A07K'
+[23Feb2025 05:24:40.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karen'/78184, l='ServerLevel[world]', x=4845.30, y=61.88, z=-214.73] died, message: 'Karen was slain by Paola'
+[23Feb2025 05:24:48.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atli'/78186, l='ServerLevel[world]', x=4843.52, y=64.00, z=-213.50] died, message: 'Atli was shot by A07K'
