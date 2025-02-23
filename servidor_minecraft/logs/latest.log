@@ -387,3 +387,81 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 03:24:52.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola has made the advancement [Take Aim]
 [23Feb2025 03:25:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was shot by IsaacR
 [23Feb2025 03:34:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 03:40:47.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> mca editor
+[23Feb2025 03:54:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Creative Mode]
+[23Feb2025 03:54:50.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 03:55:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Pillager]
+[23Feb2025 03:55:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Pillager]
+[23Feb2025 03:56:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Summoned new Pillager]
+[23Feb2025 04:00:11.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 20 [Clay] to IsaacR]
+[23Feb2025 04:01:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 5 [Clay Ball] to IsaacR]
+[23Feb2025 04:11:11.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36863, l='ServerLevel[world]', x=1283.50, y=50.00, z=-143.50]
+[23Feb2025 04:19:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:23:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola has made the advancement [Ice Bucket Challenge]
+[23Feb2025 04:27:03.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miglena'/47572, l='ServerLevel[world]', x=3261.46, y=67.42, z=-320.70] died, message: 'Miglena was slain by Roost Rider'
+[23Feb2025 04:27:26.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nedyalko'/47363, l='ServerLevel[world]', x=3224.33, y=74.00, z=-338.63] died, message: 'Nedyalko was slain by Roost Rider'
+[23Feb2025 04:28:04.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jordan'/48509, l='ServerLevel[world]', x=3261.43, y=68.00, z=-320.85] died, message: 'Jordan was slain by Roost Rider'
+[23Feb2025 04:29:38.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lilyan'/47442, l='ServerLevel[world]', x=3183.97, y=82.48, z=-306.77] died, message: 'Lilyan was slain by Fire Dragon'
+[23Feb2025 04:33:44.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:34:02.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola has made the advancement [Herc was on a Roll!]
+[23Feb2025 04:35:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was shot by Stymphalian Bird
+[23Feb2025 04:35:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola has made the advancement [Stone Age]
+[23Feb2025 04:36:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:37:18.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola fell off a ladder
+[23Feb2025 04:37:56.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 04:38:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 04:38:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 04:38:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:39:04.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 04:39:16.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:41:29.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[23Feb2025 04:41:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[23Feb2025 04:42:24.443] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 04:42:24.593] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 04:42:24.593] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 04:42:24.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 04:42:24.779] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 04:42:24.779] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 04:42:24.779] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 04:42:24.779] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 04:42:24.962] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 04:42:24.962] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 04:42:24.963] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 04:42:25.024] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 04:42:25.357] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 04:42:25.357] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 04:42:25.400] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 04:42:25.400] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 04:42:29.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:33431] logged in with entity id 58665 at (3647.1584934733264, 3.0, -366.65873111835657)
+[23Feb2025 04:42:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[23Feb2025 04:42:29.340] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[23Feb2025 04:43:49.801] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 04:43:49.855] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 04:43:49.857] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 04:43:49.928] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 04:43:50.001] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 04:43:50.013] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 04:43:50.074] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 04:43:50.146] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 04:43:50.156] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 04:43:50.219] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 04:43:50.292] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 04:43:50.312] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 04:43:50.581] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 04:43:50.582] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 04:43:50.587] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 04:43:50.603] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 04:43:55.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:56105] logged in with entity id 60056 at (742.0795517433019, 69.0, -207.35546844696356)
+[23Feb2025 04:43:55.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[23Feb2025 04:43:56.008] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[23Feb2025 04:48:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 04:48:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 04:48:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 04:51:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 04:51:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 04:58:28.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4516, y=107, z=-204} BlockPos{x=4516, y=105, z=-204}
+[23Feb2025 04:58:29.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4516, y=107, z=-204} BlockPos{x=4515, y=106, z=-204}
+[23Feb2025 04:59:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:01:19.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR burned to death
+[23Feb2025 05:01:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 05:03:13.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4417, y=114, z=-122} BlockPos{x=4416, y=113, z=-123}
