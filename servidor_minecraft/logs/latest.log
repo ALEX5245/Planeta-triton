@@ -494,3 +494,97 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 05:24:38.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Halldór'/78183, l='ServerLevel[world]', x=4842.50, y=62.51, z=-208.69] died, message: 'Halldór was shot by A07K'
 [23Feb2025 05:24:40.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karen'/78184, l='ServerLevel[world]', x=4845.30, y=61.88, z=-214.73] died, message: 'Karen was slain by Paola'
 [23Feb2025 05:24:48.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atli'/78186, l='ServerLevel[world]', x=4843.52, y=64.00, z=-213.50] died, message: 'Atli was shot by A07K'
+[23Feb2025 05:26:22.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/78907, l='ServerLevel[world]', x=5039.70, y=62.43, z=-283.30] died: Witch was slain by IsaacR
+[23Feb2025 05:26:28.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/80186, l='ServerLevel[world]', x=5037.94, y=69.50, z=-287.21] died: Witch was shot by A07K
+[23Feb2025 05:29:03.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Guðbjörg'/78744, l='ServerLevel[world]', x=4986.18, y=68.00, z=-272.66] died, message: 'Guðbjörg was shot by A07K'
+[23Feb2025 05:29:06.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Reynar'/78892, l='ServerLevel[world]', x=5002.50, y=71.50, z=-274.43] died, message: 'Reynar was shot by A07K'
+[23Feb2025 05:29:10.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Magni'/78742, l='ServerLevel[world]', x=5001.21, y=70.00, z=-275.46] died, message: 'Magni was shot by A07K'
+[23Feb2025 05:31:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> 746 69 -229
+[23Feb2025 05:31:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Bjarnveig to 746.500000, 69.000000, -228.500000]
+[23Feb2025 05:35:29.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was slain by Deepling Angler
+[23Feb2025 05:36:34.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 05:37:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was slain by Lionfish
+[23Feb2025 05:39:07.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Paola]
+[23Feb2025 05:39:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 05:39:38.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 05:40:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:42:09.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[23Feb2025 05:42:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[23Feb2025 05:42:27.031] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 05:42:27.206] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 05:42:27.217] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 05:42:27.222] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 05:42:27.381] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 05:42:27.382] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 05:42:27.382] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 05:42:27.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 05:42:27.557] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 05:42:27.557] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 05:42:27.558] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 05:42:27.625] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 05:42:27.921] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 05:42:27.945] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 05:42:27.985] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 05:42:27.987] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 05:42:31.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:59825] logged in with entity id 101704 at (6008.891463551787, 47.87266940524829, -373.15904389895985)
+[23Feb2025 05:42:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[23Feb2025 05:42:31.864] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[23Feb2025 05:42:32.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[23Feb2025 05:42:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[23Feb2025 05:42:55.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Paola lost connection: Disconnected
+[23Feb2025 05:42:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola left the game
+[23Feb2025 05:43:04.930] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 05:43:05.142] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 05:43:05.142] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 05:43:05.185] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 05:43:05.185] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 05:43:05.423] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 05:43:05.440] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 05:43:05.441] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 05:43:05.441] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 05:43:05.441] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 05:43:05.528] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 05:43:05.528] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 05:43:05.998] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 05:43:06.002] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 05:43:06.096] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 05:43:06.137] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 05:43:09.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Paola[/127.42.247.18:33433] logged in with entity id 102398 at (6298.691144363707, 57.46552274328872, -385.1662724625384)
+[23Feb2025 05:43:09.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola joined the game
+[23Feb2025 05:43:09.480] [Server thread/INFO] [Jade/]: Syncing config to Paola (c16199d7-6e69-3f3f-afa4-82b91fa6b81d)
+[23Feb2025 05:43:12.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77fab971[id=<null>,name=A07K,properties={},legacy=false] (/127.7.243.175:35411) lost connection: Disconnected
+[23Feb2025 05:43:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:43:21.673] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 05:43:21.746] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 05:43:21.823] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 05:43:21.823] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 05:43:21.910] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 05:43:21.973] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 05:43:22.051] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 05:43:22.090] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 05:43:22.127] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 05:43:22.201] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 05:43:22.201] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 05:43:22.266] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 05:43:23.107] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 05:43:23.107] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 05:43:23.175] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 05:43:23.796] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 05:43:30.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:39513] logged in with entity id 103055 at (6189.507745263768, 60.46562261080068, -399.094118381856)
+[23Feb2025 05:43:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[23Feb2025 05:43:30.896] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[23Feb2025 05:43:35.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 05:44:39.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/103072, l='ServerLevel[world]', x=6206.34, y=62.55, z=-420.63] died: Witch was slain by A07K
+[23Feb2025 05:44:47.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/101830, l='ServerLevel[world]', x=5912.20, y=66.50, z=-257.30] died: Witch was slain by IsaacR
+[23Feb2025 05:44:59.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/103069, l='ServerLevel[world]', x=6214.70, y=67.50, z=-407.08] died: Witch was slain by A07K
+[23Feb2025 05:45:01.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/101828, l='ServerLevel[world]', x=5908.70, y=69.50, z=-258.70] died: Witch was slain by IsaacR
+[23Feb2025 05:47:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 05:47:45.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:48:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 05:48:16.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:49:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Paola to A07K]
+[23Feb2025 05:50:36.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[23Feb2025 05:50:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:51:20.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was slain by Ferrous Wroughtnaut
+[23Feb2025 05:52:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Paola: Teleported Paola to IsaacR]
+[23Feb2025 05:55:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
