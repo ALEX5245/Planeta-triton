@@ -218,6 +218,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-23 04:00:22 +0000",
       "cooked_mutton": "2025-01-12 06:13:03 +0000",
+      "cooked_beef": "2025-02-23 05:07:23 +0000",
       "beef": "2025-01-12 06:23:13 +0000",
       "potato": "2025-02-23 04:27:01 +0000",
       "bread": "2025-01-12 04:33:43 +0000",
@@ -1381,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-02-23 05:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-02-23 04:32:38 +0000"
@@ -1399,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-02-23 05:06:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-02-23 04:32:38 +0000"
@@ -1408,6 +1421,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-23 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-23 05:08:12 +0000"
     },
     "done": true
   },
@@ -1426,6 +1445,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-02-23 04:35:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-02-23 05:06:22 +0000"
     },
     "done": true
   },
@@ -1486,6 +1511,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-23 04:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-02-23 05:06:22 +0000"
     },
     "done": true
   },
@@ -1564,6 +1595,12 @@
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-02-23 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-23 05:06:22 +0000"
     },
     "done": true
   },

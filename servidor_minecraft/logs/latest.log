@@ -465,3 +465,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 05:01:19.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR burned to death
 [23Feb2025 05:01:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
 [23Feb2025 05:03:13.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4417, y=114, z=-122} BlockPos{x=4416, y=113, z=-123}
+[23Feb2025 05:09:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was burnt to a crisp whilst fighting IsaacR
+[23Feb2025 05:12:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]

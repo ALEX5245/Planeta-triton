@@ -9304,3 +9304,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 05:03:13.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4417, y=114, z=-122} BlockPos{x=4416, y=113, z=-123}
 [23Feb2025 05:04:57.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 05:04:57.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 05:09:57.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 05:09:57.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 05:09:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was burnt to a crisp whilst fighting IsaacR
+[23Feb2025 05:12:18.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[23Feb2025 05:14:57.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 05:14:57.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
