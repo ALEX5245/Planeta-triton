@@ -10914,3 +10914,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 05:54:57.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 05:54:57.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2025 05:55:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 05:58:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola was slain by Ferrous Wroughtnaut
+[23Feb2025 05:59:19.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 05:59:32.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Paola to A07K]
+[23Feb2025 05:59:57.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 05:59:57.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 06:00:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 06:00:18.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Paola to A07K]
+[23Feb2025 06:01:40.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 06:01:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 06:02:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola didn't manage to keep wet
+[23Feb2025 06:02:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 06:02:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Paola to IsaacR]
+[23Feb2025 06:04:57.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 06:04:57.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
