@@ -620,3 +620,116 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Feb2025 06:15:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
 [23Feb2025 06:15:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was obliterated by a sonically-charged shriek
 [23Feb2025 06:16:34.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
+[23Feb2025 06:16:41.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has made the advancement [Sculk Cymbal]
+[23Feb2025 06:18:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[23Feb2025 06:18:54.116] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 06:18:54.330] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 06:18:54.342] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 06:18:54.342] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 06:18:54.342] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 06:18:54.602] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 06:18:54.602] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 06:18:54.603] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 06:18:54.603] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 06:18:54.603] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 06:18:54.715] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 06:18:54.740] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 06:18:55.159] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 06:18:55.159] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 06:18:55.260] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 06:18:55.291] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 06:18:58.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Paola[/127.42.247.18:38201] logged in with entity id 114347 at (6379.532362618645, 30.0, -417.20847766989783)
+[23Feb2025 06:18:58.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Paola joined the game
+[23Feb2025 06:18:58.858] [Server thread/INFO] [Jade/]: Syncing config to Paola (c16199d7-6e69-3f3f-afa4-82b91fa6b81d)
+[23Feb2025 06:20:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Sculk Cymbal]
+[23Feb2025 06:23:28.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6364, y=-17, z=-382} BlockPos{x=6363, y=-17, z=-382}
+[23Feb2025 06:23:38.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6368, y=-24, z=-400} BlockPos{x=6367, y=-24, z=-399}
+[23Feb2025 06:26:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was obliterated by a sonically-charged shriek
+[23Feb2025 06:26:54.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
+[23Feb2025 06:27:04.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:05.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6372, y=18, z=-350} BlockPos{x=6369, y=18, z=-352}
+[23Feb2025 06:27:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:28:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Creative Mode]
+[23Feb2025 06:28:43.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:29:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:30:04.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:30:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 06:30:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
+[23Feb2025 06:30:27.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:30:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 06:30:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
+[23Feb2025 06:33:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:34:27.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:34:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:35:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to IsaacR]
+[23Feb2025 06:36:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has completed the challenge [It Spreads]
+[23Feb2025 06:37:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:37:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:38:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:39:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Applied effect Night Vision to 3 targets]
+[23Feb2025 06:39:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [It Spreads]
+[23Feb2025 06:39:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:39:50.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 06:40:15.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Warden
+[23Feb2025 06:40:19.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[23Feb2025 06:41:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[23Feb2025 06:41:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set own game mode to Survival Mode]
+[23Feb2025 06:41:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [You Monster...]
+[23Feb2025 06:41:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[23Feb2025 06:41:44.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported A07K to IsaacR]
+[23Feb2025 06:44:41.875] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 986 ms
+[23Feb2025 06:44:42.825] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 948 ms
+[23Feb2025 06:44:43.746] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 920 ms
+[23Feb2025 06:44:44.581] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 833 ms
+[23Feb2025 06:44:45.395] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 813 ms
+[23Feb2025 06:44:46.401] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 1006 ms
+[23Feb2025 06:44:47.372] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 970 ms
+[23Feb2025 06:44:48.308] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 934 ms
+[23Feb2025 06:44:49.155] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 846 ms
+[23Feb2025 06:44:49.943] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 788 ms
+[23Feb2025 06:44:50.885] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 941 ms
+[23Feb2025 06:44:51.806] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 920 ms
+[23Feb2025 06:44:52.672] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 865 ms
+[23Feb2025 06:44:53.511] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 838 ms
+[23Feb2025 06:44:54.375] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 863 ms
+[23Feb2025 06:44:55.329] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 953 ms
+[23Feb2025 06:44:56.276] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 946 ms
+[23Feb2025 06:44:57.215] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 938 ms
+[23Feb2025 06:44:58.163] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 948 ms
+[23Feb2025 06:44:59.030] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 865 ms
+[23Feb2025 06:44:59.981] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 950 ms
+[23Feb2025 06:45:00.872] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 891 ms
+[23Feb2025 06:45:01.815] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 941 ms
+[23Feb2025 06:45:02.747] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 931 ms
+[23Feb2025 06:45:03.650] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #c:aquatic (terralith:warm_river) took 902 ms
+[23Feb2025 06:45:03.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[23Feb2025 06:45:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[23Feb2025 06:45:03.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K moved too quickly! 7.271228441712992,2.176759275064228,-6.61988988282144
+[23Feb2025 06:45:03.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22775ms or 455 ticks behind
+[23Feb2025 06:45:08.100] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[23Feb2025 06:45:08.273] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[23Feb2025 06:45:08.273] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[23Feb2025 06:45:08.273] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[23Feb2025 06:45:08.452] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[23Feb2025 06:45:08.452] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[23Feb2025 06:45:08.452] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[23Feb2025 06:45:08.452] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[23Feb2025 06:45:08.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[23Feb2025 06:45:08.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[23Feb2025 06:45:08.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[23Feb2025 06:45:08.632] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[23Feb2025 06:45:09.001] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[23Feb2025 06:45:09.041] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[23Feb2025 06:45:09.054] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[23Feb2025 06:45:09.097] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[23Feb2025 06:45:12.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.29.45.43:44347] logged in with entity id 137828 at (6476.507935800688, 141.6715999984741, -452.4247839948017)
+[23Feb2025 06:45:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[23Feb2025 06:45:12.953] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)

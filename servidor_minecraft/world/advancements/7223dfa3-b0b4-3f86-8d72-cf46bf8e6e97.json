@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-23 06:41:36 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-31 06:39:12 +0000",
       "minecraft:mushroom_fields": "2024-12-14 08:14:56 +0000",
       "minecraft:taiga": "2024-12-31 02:29:19 +0000",
@@ -393,6 +394,7 @@
       "beef": "2024-12-21 08:34:28 +0000",
       "baked_potato": "2025-01-30 06:26:09 +0000",
       "porkchop": "2025-01-12 05:46:58 +0000",
+      "apple": "2025-02-23 06:43:25 +0000",
       "cooked_cod": "2024-12-14 06:49:23 +0000",
       "mutton": "2025-02-23 04:31:10 +0000",
       "bread": "2024-12-14 06:16:30 +0000",
@@ -7451,6 +7453,30 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-23 06:14:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-23 06:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-23 06:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 06:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 06:42:55 +0000"
     },
     "done": true
   },
