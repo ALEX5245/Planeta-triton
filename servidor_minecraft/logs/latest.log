@@ -553,3 +553,176 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 02:45:06.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.36.115.218:49203] logged in with entity id 52878 at (-1211.1846484280027, 62.0, -4733.596750996091)
 [30Mar2025 02:45:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
 [30Mar2025 02:45:06.866] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[30Mar2025 02:47:02.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55192, l='ServerLevel[world]', x=-1524.50, y=38.00, z=-5116.50]
+[30Mar2025 02:48:05.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/58467, l='ServerLevel[world]', x=-1521.50, y=41.00, z=-5121.50]
+[30Mar2025 02:48:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has completed the challenge [Find: Ruin pillager]
+[30Mar2025 02:48:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Diamonds!]
+[30Mar2025 02:48:47.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Acquire Hardware]
+[30Mar2025 02:50:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Cachalot Whale
+[30Mar2025 02:52:03.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd was slain by Sea Serpent
+[30Mar2025 02:52:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:52:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR was slain by Sea Serpent
+[30Mar2025 02:52:33.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd drowned
+[30Mar2025 02:53:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:57:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Mine? Mine? Mine?]
+[30Mar2025 02:58:36.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR moved too quickly! 8.471727286997066,-3.0,-4.735556496666504
+[30Mar2025 02:58:36.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
+[30Mar2025 02:58:44.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR has completed the challenge [Find: Ruin vanilla temple]
+[30Mar2025 02:59:16.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:21.279] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:26.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:31.483] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:36.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:41.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:46.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:51.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 02:59:57.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:00:02.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:00:07.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:00:12.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:00:17.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:01:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Spectator Mode]
+[30Mar2025 03:01:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set own game mode to Survival Mode]
+[30Mar2025 03:01:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Ol' Betsy]
+[30Mar2025 03:01:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Take Aim]
+[30Mar2025 03:08:20.380] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 03:08:20.457] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 03:08:20.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 03:08:20.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 03:08:20.613] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 03:08:20.690] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 03:08:20.690] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 03:08:20.766] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 03:08:20.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 03:08:20.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 03:08:20.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 03:08:20.922] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 03:08:21.101] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 03:08:21.101] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 03:08:21.151] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 03:08:21.230] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 03:08:26.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:49383] logged in with entity id 79544 at (-82.77278380055381, 24.810896730959172, -234.91728954801124)
+[30Mar2025 03:08:26.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[30Mar2025 03:08:26.439] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[30Mar2025 03:10:24.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
+[30Mar2025 03:17:14.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to Pairo_Xd]
+[30Mar2025 03:17:15.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:15.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:15.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.279] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.780] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:16.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:17.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:18.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:19.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:20.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:21.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:22.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.478] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:23.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.378] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.878] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:24.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.478] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:25.977] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.276] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.478] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.577] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:17:26.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Mar2025 03:18:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 2 [Acacia Fence] to IsaacR]
+[30Mar2025 03:19:16.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2439, y=67, z=-6297} BlockPos{x=-2439, y=65, z=-6296}
+[30Mar2025 03:19:16.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2438, y=67, z=-6297} BlockPos{x=-2439, y=65, z=-6296}
+[30Mar2025 03:22:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to Pairo_Xd]
+[30Mar2025 03:23:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [My Name is Nobody]
+[30Mar2025 03:25:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was doomed to fall by Husk
+[30Mar2025 03:25:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to Pairo_Xd]
+[30Mar2025 03:25:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Rigged from the Start]
