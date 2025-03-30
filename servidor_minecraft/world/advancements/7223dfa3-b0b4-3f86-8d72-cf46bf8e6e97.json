@@ -7616,5 +7616,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-03-30 06:02:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-03-30 05:58:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
