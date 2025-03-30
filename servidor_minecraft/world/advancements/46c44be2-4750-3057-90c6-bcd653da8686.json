@@ -199,6 +199,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-30 01:57:35 +0000",
       "cooked_mutton": "2025-03-30 03:39:51 +0000",
+      "cooked_cod": "2025-03-30 06:19:05 +0000",
       "bread": "2025-03-30 01:50:04 +0000",
       "golden_apple": "2025-03-30 03:13:50 +0000"
     },
@@ -1888,6 +1889,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-03-30 05:52:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-30 06:16:49 +0000"
     },
     "done": true
   },

@@ -8555,3 +8555,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 06:15:32.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 06:15:32.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Mar2025 06:16:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Splintering II]
+[30Mar2025 06:20:32.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 06:20:32.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 06:23:37.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Acacia Fence] to IsaacR]
+[30Mar2025 06:25:32.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 06:25:32.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
