@@ -460,3 +460,61 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 02:03:16.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:60037] logged in with entity id 15347 at (746.5, 69.0, -228.5)
 [30Mar2025 02:03:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
 [30Mar2025 02:03:16.589] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[30Mar2025 02:05:57.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[30Mar2025 02:05:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[30Mar2025 02:06:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:07:10.572] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 02:07:10.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 02:07:10.729] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 02:07:10.744] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 02:07:10.805] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 02:07:10.881] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 02:07:10.881] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 02:07:10.957] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 02:07:11.034] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 02:07:11.034] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 02:07:11.110] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 02:07:11.163] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 02:07:11.276] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 02:07:11.286] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 02:07:11.327] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 02:07:11.346] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 02:07:16.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:52997] logged in with entity id 18046 at (734.6999999880791, 69.0, -217.0248820059094)
+[30Mar2025 02:07:16.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[30Mar2025 02:07:16.717] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[30Mar2025 02:07:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Set the weather to clear]
+[30Mar2025 02:08:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Flippin' stones]
+[30Mar2025 02:12:00.870] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -101], discarding
+[30Mar2025 02:12:00.871] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -100], discarding
+[30Mar2025 02:12:00.872] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -99], discarding
+[30Mar2025 02:12:00.873] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -98], discarding
+[30Mar2025 02:12:00.874] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -97], discarding
+[30Mar2025 02:12:00.875] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [27, -96], discarding
+[30Mar2025 02:12:00.879] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -101], discarding
+[30Mar2025 02:12:00.881] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: eeeabsmobs:guling
+[30Mar2025 02:12:00.881] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -100], discarding
+[30Mar2025 02:12:00.927] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -99], discarding
+[30Mar2025 02:12:00.928] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -98], discarding
+[30Mar2025 02:12:00.929] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -96], discarding
+[30Mar2025 02:12:00.930] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [28, -97], discarding
+[30Mar2025 02:12:00.933] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -101], discarding
+[30Mar2025 02:12:00.935] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -100], discarding
+[30Mar2025 02:12:00.936] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -99], discarding
+[30Mar2025 02:12:00.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -98], discarding
+[30Mar2025 02:12:00.939] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -97], discarding
+[30Mar2025 02:12:00.940] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [29, -96], discarding
+[30Mar2025 02:12:21.689] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -101], discarding
+[30Mar2025 02:12:21.690] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -100], discarding
+[30Mar2025 02:12:21.692] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [30, -99], discarding
+[30Mar2025 02:12:21.697] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -101], discarding
+[30Mar2025 02:12:21.698] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -100], discarding
+[30Mar2025 02:12:21.699] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [31, -99], discarding
+[30Mar2025 02:12:21.708] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -101], discarding
+[30Mar2025 02:12:21.709] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -100], discarding
+[30Mar2025 02:12:21.710] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'eeeabsmobs:guling' in chunk [32, -99], discarding
+[30Mar2025 02:13:44.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Mar2025 02:13:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:14:15.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Monster Hunter]
+[30Mar2025 02:17:24.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Book of Monsters]
+[30Mar2025 02:21:23.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Would you Like to Know More?]
+[30Mar2025 02:24:31.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Airi'/34565, l='ServerLevel[world]', x=-489.90, y=70.50, z=-2855.08] died, message: 'Airi was slain by Fire Dragon'
