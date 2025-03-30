@@ -2984,6 +2984,7 @@
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_mountains": "2024-12-15 04:19:37 +0000",
+      "in_village_badlands": "2025-03-30 02:24:35 +0000",
       "in_village_birch": "2025-02-08 06:03:06 +0000"
     },
     "done": false
@@ -7485,6 +7486,36 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-23 06:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-03-30 02:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-03-30 02:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-03-30 02:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-03-30 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-03-30 02:26:45 +0000"
     },
     "done": true
   },

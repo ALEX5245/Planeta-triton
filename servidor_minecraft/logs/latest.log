@@ -518,3 +518,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 02:17:24.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Book of Monsters]
 [30Mar2025 02:21:23.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K has made the advancement [Would you Like to Know More?]
 [30Mar2025 02:24:31.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Airi'/34565, l='ServerLevel[world]', x=-489.90, y=70.50, z=-2855.08] died, message: 'Airi was slain by Fire Dragon'
+[30Mar2025 02:25:34.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yusuke'/34360, l='ServerLevel[world]', x=-546.37, y=63.00, z=-2803.57] died, message: 'Yusuke burned to death'
+[30Mar2025 02:27:26.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chisako'/34601, l='ServerLevel[world]', x=-560.51, y=68.00, z=-2860.41] died, message: 'Chisako burned to death'
+[30Mar2025 02:30:45.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Masquerade]
+[30Mar2025 02:31:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Dragonslayer]
+[30Mar2025 02:37:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
+[30Mar2025 02:39:11.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Pairo_Xd to A07K]
+[30Mar2025 02:39:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:39:58.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Pairo_Xd to A07K]
+[30Mar2025 02:40:22.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported Pairo_Xd to IsaacR]
+[30Mar2025 02:40:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Set the weather to clear]
+[30Mar2025 02:41:40.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[30Mar2025 02:41:40.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[30Mar2025 02:44:09.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [It Belongs in a Museum]
+[30Mar2025 02:44:39.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Tie me to the Mast]
+[30Mar2025 02:44:57.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[30Mar2025 02:44:57.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[30Mar2025 02:45:02.047] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 02:45:02.210] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 02:45:02.210] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 02:45:02.210] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 02:45:02.372] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 02:45:02.372] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 02:45:02.373] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 02:45:02.537] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 02:45:02.537] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 02:45:02.537] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 02:45:02.640] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 02:45:02.640] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 02:45:02.859] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 02:45:02.859] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 02:45:02.967] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 02:45:02.985] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 02:45:06.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.36.115.218:49203] logged in with entity id 52878 at (-1211.1846484280027, 62.0, -4733.596750996091)
+[30Mar2025 02:45:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[30Mar2025 02:45:06.866] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
