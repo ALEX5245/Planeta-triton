@@ -368,3 +368,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 01:42:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> deja de paso foto
 [30Mar2025 01:43:24.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported Pairo_Xd to IsaacR]
 [30Mar2025 01:43:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Esta es nuestra base
+[30Mar2025 01:43:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Y el es Jorge
+[30Mar2025 01:43:54.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> hay un drowned con tridente
+[30Mar2025 01:44:39.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Mira este muro
+[30Mar2025 01:44:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> son los premios de bosses¿
+[30Mar2025 01:44:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Debemos encontrar los ojos que faltan aqui
+[30Mar2025 01:45:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Maso, con esos abrimos el portal y derrotamos al dragon, pero faltan
+[30Mar2025 01:45:30.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Solo hemos derrotado 1 :((
+[30Mar2025 01:45:38.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Y ya encontramos a otro pero nos da miedo jajaja
+[30Mar2025 01:45:41.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> ya bajaremos a los otros
+[30Mar2025 01:46:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> t=Deja te agrego a discord
+[30Mar2025 01:47:31.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Listo
+[30Mar2025 01:48:18.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> no me llego na'a
+[30Mar2025 01:48:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
+[30Mar2025 01:48:42.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Tenemos un cofre con armas, ve por unas
+[30Mar2025 01:48:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ufff el jorge se siente abandonado
+[30Mar2025 01:49:16.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> como asi XD
+[30Mar2025 01:49:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Si jaja
+[30Mar2025 01:50:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ya agarraste armas?
+[30Mar2025 01:50:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> yaya
+[30Mar2025 01:50:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Comida?
+[30Mar2025 01:50:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> tambien
+[30Mar2025 01:50:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Ya solo estamos esperando a mi compa para ir a matar al leviathan supremo xd
+[30Mar2025 01:51:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> ta muy potente¿
+[30Mar2025 01:51:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> La verdad si
+[30Mar2025 01:51:16.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Es muy fuerte
+[30Mar2025 01:51:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> deja me salgo y vuelvo a entrar, capaz lo de la skin es que se me quito desde las opciones, no tardo
+[30Mar2025 01:51:36.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pairo_Xd lost connection: Disconnected
+[30Mar2025 01:51:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd left the game
+[30Mar2025 01:53:20.035] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 01:53:20.159] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 01:53:20.186] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 01:53:20.282] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 01:53:20.287] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 01:53:20.287] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 01:53:20.407] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 01:53:20.412] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 01:53:20.580] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 01:53:20.580] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 01:53:20.580] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 01:53:20.609] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 01:53:20.878] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 01:53:20.878] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 01:53:20.885] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 01:53:20.885] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 01:53:24.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pairo_Xd[/127.167.152.128:46811] logged in with entity id 10737 at (-117.81097873986214, 5.0, -246.1489728010016)
+[30Mar2025 01:53:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd joined the game
+[30Mar2025 01:53:24.493] [Server thread/INFO] [Jade/]: Syncing config to Pairo_Xd (46c44be2-4750-3057-90c6-bcd653da8686)
+[30Mar2025 01:53:36.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> te prepare esta armor
+[30Mar2025 01:53:56.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Suit Up]
+[30Mar2025 01:54:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pairo_Xd> añade demasiado la de dragon
+[30Mar2025 01:54:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Es creo la 3era mas potente (incompleta)
+[30Mar2025 01:54:14.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> Jajaja eso crees?
