@@ -7393,9 +7393,15 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_grottol": {
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
-      "grottol": "2025-02-23 06:41:35 +0000"
+      "has_item": "2025-02-23 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-23 06:15:06 +0000"
     },
     "done": true
   },
@@ -7405,21 +7411,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-02-23 06:10:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-02-23 06:36:42 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "mowziesmobs:kill_grottol": {
     "criteria": {
-      "avoid_vibration": "2025-02-23 06:15:06 +0000"
+      "grottol": "2025-02-23 06:41:35 +0000"
     },
     "done": true
   },
