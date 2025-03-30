@@ -726,3 +726,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 03:25:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K was doomed to fall by Husk
 [30Mar2025 03:25:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to Pairo_Xd]
 [30Mar2025 03:25:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Rigged from the Start]
+[30Mar2025 03:30:07.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Mar2025 03:30:34.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [The Desert Swimmers]
+[30Mar2025 03:31:26.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[30Mar2025 03:31:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[30Mar2025 03:31:34.615] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 03:31:34.780] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 03:31:34.780] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 03:31:34.781] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 03:31:34.943] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 03:31:34.943] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 03:31:34.943] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 03:31:35.099] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 03:31:35.099] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 03:31:35.100] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 03:31:35.385] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 03:31:35.391] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 03:31:35.874] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 03:31:35.874] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 03:31:35.950] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 03:31:36.230] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 03:31:40.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacR[/127.36.115.218:49507] logged in with entity id 97475 at (-2703.0920382746567, 67.0, -7457.710556881936)
+[30Mar2025 03:31:40.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR joined the game
+[30Mar2025 03:31:40.781] [Server thread/INFO] [Jade/]: Syncing config to IsaacR (7223dfa3-b0b4-3f86-8d72-cf46bf8e6e97)
+[30Mar2025 03:32:43.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gui-Zhi'/95295, l='ServerLevel[world]', x=-2695.58, y=71.00, z=-7352.98] died, message: 'Gui-Zhi went up in flames'
+[30Mar2025 03:34:51.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Made Pairo_Xd a server operator]
+[30Mar2025 03:35:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> tp nombre
+[30Mar2025 03:35:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Sweet Dreams]

@@ -127,6 +127,7 @@
       "minecraft:savanna_plateau": "2025-03-30 02:36:38 +0000",
       "minecraft:beach": "2025-03-30 01:38:24 +0000",
       "minecraft:mangrove_swamp": "2025-03-30 02:16:53 +0000",
+      "minecraft:sparse_jungle": "2025-03-30 03:31:53 +0000",
       "minecraft:lukewarm_ocean": "2025-03-30 02:10:07 +0000",
       "minecraft:river": "2025-03-30 02:09:57 +0000",
       "minecraft:stony_shore": "2025-03-30 02:32:45 +0000",
@@ -310,6 +311,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-03-30 03:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-30 03:13:44 +0000"
@@ -415,6 +422,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-30 02:21:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-30 03:30:34 +0000"
     },
     "done": true
   },
@@ -838,6 +851,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-03-30 03:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-30 02:48:47 +0000"
@@ -979,6 +998,12 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-03-30 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-03-30 03:25:45 +0000"
     },
     "done": true
   },
@@ -1228,6 +1253,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-30 03:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-03-30 02:38:22 +0000"
@@ -1249,6 +1280,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-03-30 02:41:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-03-30 03:30:35 +0000"
     },
     "done": true
   },
@@ -1297,6 +1334,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-03-30 02:14:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-30 03:26:16 +0000"
     },
     "done": true
   },
@@ -1396,9 +1439,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-30 03:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-30 02:21:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-30 03:34:13 +0000"
     },
     "done": true
   },
