@@ -10297,3 +10297,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 03:34:51.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Made Pairo_Xd a server operator]
 [30Mar2025 03:35:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacR> tp nombre
 [30Mar2025 03:35:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Sweet Dreams]
+[30Mar2025 03:36:36.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd has made the advancement [Sunken City]
+[30Mar2025 03:37:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Mar2025 03:39:18.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Teleported A07K to IsaacR]
+[30Mar2025 03:39:26.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pairo_Xd moved too quickly! 0.49767641119251493,-14.0,-1.0851471849082373
+[30Mar2025 03:39:28.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:39:28.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 03:41:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
+[30Mar2025 03:43:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Applied effect Night Vision to 3 targets]
+[30Mar2025 03:44:28.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 03:44:28.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
