@@ -759,3 +759,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [30Mar2025 03:39:26.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pairo_Xd moved too quickly! 0.49767641119251493,-14.0,-1.0851471849082373
 [30Mar2025 03:41:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
 [30Mar2025 03:43:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A07K: Applied effect Night Vision to 3 targets]
+[30Mar2025 03:47:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to A07K]
+[30Mar2025 03:54:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Teleported IsaacR to Pairo_Xd]
+[30Mar2025 03:54:23.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IsaacR: Gave 1 [Block of Amethyst] to IsaacR]
+[30Mar2025 03:58:00.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacR lost connection: Disconnected
+[30Mar2025 03:58:00.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacR left the game
+[30Mar2025 03:58:02.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pairo_Xd lost connection: Disconnected
+[30Mar2025 03:58:02.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pairo_Xd left the game
+[30Mar2025 03:59:30.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[30Mar2025 03:59:30.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[30Mar2025 03:59:45.199] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 03:59:45.276] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 03:59:45.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 03:59:45.373] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 03:59:45.453] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 03:59:45.587] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 03:59:45.587] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 03:59:45.679] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 03:59:45.680] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 03:59:45.680] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 03:59:45.752] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 03:59:45.752] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 03:59:45.934] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 03:59:45.973] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 03:59:45.973] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 03:59:46.014] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 03:59:52.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A07K[/127.7.243.175:52783] logged in with entity id 121715 at (-2777.953833575042, -12.0, -7780.967919688944)
+[30Mar2025 03:59:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K joined the game
+[30Mar2025 03:59:52.262] [Server thread/INFO] [Jade/]: Syncing config to A07K (b80e6cee-5c06-38e6-b1ea-bf9190f85405)
+[30Mar2025 04:01:57.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A07K lost connection: Disconnected
+[30Mar2025 04:01:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A07K left the game
+[30Mar2025 04:02:23.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2025 04:02:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2025 04:02:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2025 04:02:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Mar2025 04:02:23.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Mar2025 04:02:23.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Mar2025 04:02:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Mar2025 04:02:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2025 04:02:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Mar2025 04:02:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Mar2025 04:02:24.313] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@198356d1
+[30Mar2025 04:02:24.313] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Mar2025 04:02:24.314] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[30Mar2025 04:02:24.317] [Server thread/INFO] [Framework/]: Sending config unload event for ragnagoblin-entity.toml
+[30Mar2025 04:02:24.318] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
